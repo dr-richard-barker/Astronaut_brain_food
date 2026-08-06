@@ -1,0 +1,75 @@
+\documentclass[11pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[margin=1in]{geometry}
+\usepackage{graphicx}
+\usepackage{booktabs}
+\usepackage{longtable}
+\usepackage{hyperref}
+\usepackage{natbib}
+\usepackage{amsmath}
+\usepackage{xcolor}
+
+\title{Neurological Countermeasures for Spaceflight: A Transcriptomic-Driven, \\
+       Diet-Based Neuroprotection Strategy}
+\author{Biomni Analysis Pipeline}
+\date{\today}
+
+\begin{document}
+\maketitle
+
+\begin{abstract}
+Spaceflight imposes unique stressors on the central nervous system, including microgravity, cosmic radiation, and circadian disruption. We analyzed rodent ISS brain RNA-seq data from 4 NASA OSDR studies (OSD-525, OSD-564, OSD-612, OSD-613) using random-effects meta-analysis to construct a consensus brain transcriptomic signature of \textbf{505 genes} (208 up, 297 down, 13 core). GSEA revealed dominant downregulation of mitochondrial oxidative phosphorylation (NES=-2.13), Complex I biogenesis (NES=-2.54), and protein homeostasis pathways, alongside upregulation of neuronal signaling (NES=+1.85), NMDA receptor activation (NES=+1.89), and long-term potentiation (NES=+1.66). LINCS L1000 connectivity mapping identified 221 candidate reverser compounds, including the nutrients sulforaphane (z=-5.89), ascorbic acid (z=-5.30), curcumin (z=-5.30), and luteolin (z=-4.31). Pharmacokinetic profiling of 7 brain-relevant nutrients identified ascorbic acid and sulforaphane as highest-priority countermeasures based on BBB penetration, brain tissue concentration, and spaceflight pathway relevance. We propose a phased vegan dietary countermeasure strategy (pre-flight preconditioning, in-flight protection, post-flight recovery) targeting mitochondrial dysfunction, oxidative stress, BBB disruption, and neuroinflammation. A critical finding is that curcumin, despite strong mechanistic evidence, has oral bioavailability ~1000-fold below therapeutic concentrations, requiring nanoformulation for CNS efficacy.
+\end{abstract}
+
+\section{Introduction}
+Spaceflight induces neurological changes including hippocampal apoptosis, blood-brain barrier (BBB) disruption, and cognitive impairment \citep{Mao2020,Afshinnekoo2020}. Mitochondrial dysfunction has been identified as a central biological hub of spaceflight impact \citep{daSilveira2020}. We reanalyze rodent ISS brain transcriptomic data to characterize the neurological signature of spaceflight and identify evidence-based nutritional countermeasures.
+
+\section{Methods}
+\subsection{Data and Meta-Analysis}
+Four rodent ISS brain RNA-seq datasets (OSD-525, OSD-564, OSD-612, OSD-613) were obtained from NASA OSDR. Random-effects meta-analysis was performed using \texttt{metafor} (REML estimator). Consensus genes required consistent direction across studies; core genes were significant in all 4 studies.
+
+\subsection{Pathway Enrichment}
+GSEA was performed with clusterProfiler against Hallmark and Reactome databases (p.adj $<$ 0.25). Pathways were classified into 10 neurological themes using keyword-based rules.
+
+\subsection{LINCS L1000 Screening}
+The consensus signature was queried against LINCS L1000 ($\sim$1.8M profiles). Negative connectivity z-scores indicate signature reversal. Compounds were annotated with Broad Drug Repurposing Hub data.
+
+\subsection{Nutrient Pharmacokinetics}
+PK data for 7 nutrients were compiled from published literature, including BBB penetration, oral bioavailability, peak plasma, brain concentration, and human dose.
+
+\section{Results}
+\subsection{Brain Consensus Signature}
+The meta-analysis yielded 505 consensus genes (208 up, 297 down) with 13 core genes. The signature is skewed toward downregulation, reflecting suppression of metabolic and biosynthetic processes (Figure 1).
+
+\subsection{Pathway Enrichment}
+GSEA identified 23 significant Hallmark and 527 significant Reactome pathways. The dominant downregulated themes were mitochondrial dysfunction (mean NES=-1.57), protein homeostasis (mean NES=-1.57), and DNA damage repair (mean NES=-1.38). Upregulated themes included synaptic/neuronal signaling (mean NES=+1.53) and circadian/cholesterol dysregulation (mean NES=+1.73) (Figure 2, Table 1).
+
+\subsection{LINCS Reversers}
+LINCS screening identified 221 candidate reversers. Top drug reversers included vemurafenib (z=-9.68, RAF inhibitor) and chlorambucil (z=-7.24, DNA inhibitor). Nutrient reversers included sulforaphane (z=-5.89, Nrf2 activator), ascorbic acid (z=-5.30), curcumin (z=-5.30), and luteolin (z=-4.31) (Figure 3, Table 2).
+
+\subsection{Nutrient Pharmacokinetics}
+Comparative PK profiling (Figure 4, Table 3) identified ascorbic acid and sulforaphane as highest-priority countermeasures. Ascorbic acid is actively transported across the BBB via SVCT2, achieving $\sim$10-fold higher brain vs. plasma concentrations \citep{Hoffer2020}. Sulforaphane crosses the BBB within 15 minutes and activates Nrf2/ARE \citep{Zheng2022}. Curcumin has a critical bioavailability limitation: unconjugated plasma levels remain $\sim$1000-fold below in vitro effective concentrations \citep{Kroon2025}.
+
+\subsection{Intervention Network}
+A tripartite network (Figure 6) maps 7 nutrients to 5 target pathways and 4 protective mechanisms, revealing complementary multi-target coverage.
+
+\subsection{Dietary Strategy}
+Twelve curated vegan recipes (Figure 7, 8, Table 5) provide phased nutrient coverage across pre-flight, in-flight, and post-flight mission phases.
+
+\section{Discussion}
+The brain transcriptomic signature reveals a coherent pattern of mitochondrial energy failure, impaired protein homeostasis, and DNA repair suppression, consistent with the mitochondrial stress hub model \citep{daSilveira2020,Afshinnekoo2020}. The compensatory upregulation of neuronal signaling pathways may reflect adaptive plasticity but could predispose to excitotoxicity given impaired mitochondrial function.
+
+The identification of sulforaphane and ascorbic acid as top nutrient reversers with favorable PK profiles provides a practical intervention strategy. Sulforaphane's Nrf2/ARE activation directly addresses the oxidative stress and mitochondrial dysfunction central to the signature, while ascorbic acid's active BBB transport ensures reliable brain accumulation.
+
+The curcumin bioavailability limitation, highlighted by the 2025 critical reappraisal \citep{Kroon2025}, underscores the importance of PK-grounded nutrient selection. Mechanistic evidence alone is insufficient; brain-achievable concentrations must be confirmed.
+
+\section{Limitations}
+This analysis is based on rodent data; cross-species translation requires validation. PK data are from Earth-based studies and may not reflect spaceflight physiology. LINCS profiles cell line responses, not in vivo brain pharmacology. Dietary recommendations require validation in spaceflight analog studies.
+
+\section{Conclusions}
+Spaceflight induces a brain transcriptomic signature dominated by mitochondrial dysfunction and protein homeostasis failure. Seven vegan nutrients target these pathways through complementary mechanisms. Ascorbic acid and sulforaphane are the highest-priority countermeasures based on BBB penetration and brain concentration data. A phased dietary strategy provides practical implementation guidance for long-duration spaceflight.
+
+\section*{Data Availability}
+All scripts and data are available in the Zenodo package. Source data: NASA OSDR (OSD-525, OSD-564, OSD-612, OSD-613). LINCS L1000: NIH Common Fund. Pharmacokinetic data: published literature (see references).
+
+\end{document}

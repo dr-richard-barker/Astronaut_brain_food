@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+title: "Astronaut Opposite Forcing: Spaceflight Transcriptomic Signatures and Vegan Nutritional Countermeasures"
+message: "If you use this software or data, please cite it as below."
+type: software
+authors:
+  - given-names: Richard
+    family-names: Barker
+  - name: "Biomni Computational Platform"
+    affiliation: "Phylo, Inc."
+keywords:
+  - spaceflight transcriptomics
+  - drug repurposing
+  - LINCS L1000
+  - connectivity mapping
+  - meta-analysis
+  - nutritional countermeasures
+  - vegan nutrition
+  - mitochondrial dysfunction
+  - NASA OSDR
+  - FooDB
+license: MIT
+repository-code: "https://github.com/phylo/astronaut-opposite-forcing"
+version: "1.0.0"
+date-released: "2026-08-02"
+preferred-citation:
+  type: article
+  title: "Computational identification of pharmacological and nutritional countermeasures for spaceflight-induced transcriptomic changes via consensus signature reversal"
+  authors:
+    - given-names: Richard
+      family-names: Barker
+    - name: "Biomni Computational Platform"
+      affiliation: "Phylo, Inc."
+  keywords:
+    - spaceflight transcriptomics
+    - drug repurposing
+    - LINCS L1000
+    - nutritional countermeasures
+  year: 2025
+  notes: "Manuscript in npj Microgravity style; see manuscript_astronaut_opposite_forcing.tex"
