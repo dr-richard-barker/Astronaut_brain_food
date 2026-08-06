@@ -1,0 +1,220 @@
+rank,compound,n_reversing_sigs,median_z_sum,best_z_sum,best_p,method,drh_pert_iname,drh_clinical_phase,drh_moa,drh_target,drh_disease_area,drh_indication
+1,Imatinib,4,-0.0186111872625266,-3.5436151397008966,0.0002860123987008,local_gmt_fallback,imatinib,Launched,Bcr-Abl kinase inhibitor|KIT inhibitor|PDGFR tyrosine kinase receptor inhibitor,ABL1|CSF1R|DDR1|KIT|NTRK1|PDGFRA|PDGFRB|RET,hematologic malignancy|oncology,chronic myeloid leukemia (CML)|acute lymphoblastic leukemia (ALL)|myelodysplastic diseases (MDS)|aggressive systemic mastocytosis (ASM)|hypereosinophilic syndrome (HES)|chronic eosinophilic leukemia (CEL)|dermatofibrosarcoma protuberans (DFSP)|gastrointestinal stromal tumors (GIST)
+2,Metformin,2,-1.5987173165136264,-3.196221465562408,0.0006364708740796,local_gmt_fallback,metformin,Launched,insulin sensitizer,ACACB|PRKAB1,endocrinology,diabetes mellitus
+4,Glipizide,2,-1.450537592915122,-2.87364760255411,0.0013376805038381,local_gmt_fallback,glipizide,Launched,sulfonylurea,ABCC8|KCNJ10|KCNJ11|PPARG,endocrinology,diabetes mellitus|hyperglycemia
+6,Cadmium,5,-0.0024715972001448,-2.6910296186060982,0.0020369031574751,local_gmt_fallback,,,,,,
+7,Quercetin,1,-2.281410665403011,-2.281410665403011,0.005231055581967,local_gmt_fallback,quercetin,Launched,polar auxin transport inhibitor,ATP5A1|ATP5B|ATP5C1|HCK|HIBCH|PIK3CG|PIM1|STK17B|UGT3A1,neurology/psychiatry|allergy,fatigue|allergic rhinitis|drowsiness
+8,Leptin,1,-1.852306273249476,-1.852306273249476,0.0140505630054408,local_gmt_fallback,,,,,,
+9,Carboplatin,8,-0.2617893579392957,-1.7671528167115056,0.0170941371189762,local_gmt_fallback,carboplatin,Launched,DNA alkylating agent|DNA inhibitor,,oncology,ovarian cancer
+10,Zinc,2,-0.6735074953272518,-1.3465119423447478,0.045028559904512,local_gmt_fallback,,,,,,
+11,Levofloxacin,1,-1.2844447160647892,-1.2844447160647892,0.0519463794943533,local_gmt_fallback,levofloxacin,Launched,bacterial DNA gyrase inhibitor,TOP2A,infectious disease|otolaryngology|pulmonary|urology,pneumonia|sinusitis|bronchitis|skin infections|prostatitis|urinary tract infections|pyelonephritis|anthrax|plague
+13,Ciprofloxacin,2,-0.6318824722738003,-1.2510736643680402,0.05609528200003,local_gmt_fallback,ciprofloxacin,Launched,bacterial DNA gyrase inhibitor,TOP2A,otolaryngology,otitis
+14,Phenobarbital,2,-0.6328065230829408,-1.2131853908366617,0.0612089048490775,local_gmt_fallback,,,,,,
+17,Grepafloxacin,2,-0.5532805319458824,-1.1064554619345677,0.0782608459550635,local_gmt_fallback,,,,,,
+18,Colchicine,2,-0.535414429467322,-1.001800379913896,0.099586305288807,local_gmt_fallback,colchicine,Launched,microtubule inhibitor,GLRA1|GLRA2|TUBA1A|TUBA1B|TUBA1C|TUBA3C|TUBA3D|TUBA3E|TUBA4A|TUBB|TUBB1|TUBB2A|TUBB2B|TUBB3|TUBB4A|TUBB4B|TUBB6|TUBB8,rheumatology|endocrinology,gout|fever
+19,Sunitinib,2,-0.4894092871775258,-0.9785629465139738,0.1050599170296243,local_gmt_fallback,sunitinib,Launched,FLT3 inhibitor|KIT inhibitor|PDGFR tyrosine kinase receptor inhibitor|RET tyrosine kinase inhibitor|VEGFR inhibitor,CSF1R|FGFR1|FLT1|FLT3|FLT4|KDR|KIT|PDGFRA|PDGFRB|RET,oncology,gastrointestinal stromal tumors (GIST)|renal cell carcinoma (RCC)|neuroendocrine tumors of pancreatic origin (PNET)
+20,Trovafloxacin,2,-0.4830926459523463,-0.9165542181169152,0.1211841390836753,local_gmt_fallback,trovafloxacin,Withdrawn,bacterial DNA gyrase inhibitor,TOP2A,,
+21,Cisplatin,2,-0.4725996204210769,-0.9105218958107985,0.1228791233089049,local_gmt_fallback,cisplatin,Launched,DNA alkylating agent|DNA synthesis inhibitor,XIAP,oncology,testicular carcinoma|ovarian cancer|bladder cancer
+22,Fgfr,2,-0.4749295565545692,-0.8930892772853798,0.1279118330632931,local_gmt_fallback,,,,,,
+23,Pristane,2,-0.4207483180368581,-0.830636085785713,0.1476943610119948,local_gmt_fallback,,,,,,
+24,Antimony,2,-0.4070520371296768,-0.8133769640610573,0.1536820113908479,local_gmt_fallback,,,,,,
+25,Bicalutamide,2,-0.3953575773265012,-0.7889536385666859,0.1625722294204351,local_gmt_fallback,bicalutamide,Launched,androgen receptor antagonist,AR,oncology,prostate cancer
+26,Methotrexate,1,-0.7235213629980518,-0.7235213629980518,0.18900732559683,local_gmt_fallback,methotrexate,Launched,dihydrofolate reductase inhibitor,DHFR,oncology|hematologic malignancy|dermatology|rheumatology,gestational choriocarcinoma|hydatidiform mole|acute lymphoblastic leukemia (ALL)|psoriasis|rheumatoid arthritis
+27,Ubiquinol,2,-0.3627152839548148,-0.7133839016825559,0.1934710988538202,local_gmt_fallback,,,,,,
+28,Pbde,2,-0.4126670688030467,-0.7071115336633341,0.1962856119733444,local_gmt_fallback,,,,,,
+29,Phenol,2,-0.3437909403655946,-0.682330533744785,0.2078114469412014,local_gmt_fallback,phenol,Preclinical,,CA1|CA12|CA14|CA2|CA4|CA9,otolaryngology,pharyngitis
+30,Doxycycline,2,-0.3595980827656659,-0.6451467640845182,0.2263879130256086,local_gmt_fallback,doxycycline,Launched,bacterial 30S ribosomal subunit inhibitor|metalloproteinase inhibitor,MMP8,dental,periodontitis
+31,Amoxicillin,2,-0.3181939213998719,-0.6351063474398982,0.2316827249675565,local_gmt_fallback,amoxicillin,Launched,penicillin binding protein inhibitor,CYP2C19|SLC15A1|SLC15A2|SLC22A6,infectious disease|gastroenterology,skin infections|duodenal ulcer disease|gonorrhea|ear infections|throat infections|genitourinary tract infections|respiratory tract infections
+32,Pioglitazone,1,-0.6347076900893638,-0.6347076900893638,0.2318954940208963,local_gmt_fallback,pioglitazone,Launched,insulin sensitizer|PPAR receptor agonist,PPARG|TRPM3,endocrinology,diabetes mellitus
+33,Hodgkin,2,-0.3256107951630045,-0.6074795868757531,0.2468996152295406,local_gmt_fallback,,,,,,
+34,Sodium,8,-0.0249418298142162,-0.6074795868757531,0.2468996152295406,local_gmt_fallback,,,,,,
+35,Clinafloxacin,2,-0.2881659298545672,-0.5759951339897655,0.2654635305411703,local_gmt_fallback,clinafloxacin,Phase 3,bacterial DNA gyrase inhibitor,,,
+36,Nilotinib,2,-0.2929921225986982,-0.5536858711112556,0.2794564442595529,local_gmt_fallback,nilotinib,Launched,Abl kinase inhibitor|Bcr-Abl kinase inhibitor,ABL1|KIT,hematologic malignancy,chronic myeloid leukemia (CML)
+37,Arsenic,1,-0.546391264884021,-0.546391264884021,0.2841899627604486,local_gmt_fallback,,,,,,
+38,Simvastatin,2,-0.2584529575024741,-0.5064694931574496,0.3115519736727951,local_gmt_fallback,simvastatin,Launched,HMGCR inhibitor,HMGCR|ITGB2,endocrinology|cardiology|neurology/psychiatry,hypercholesterolemia|coronary heart disease|myocardial infarction|stroke|hyperlipidemia
+39,Morphine,2,-0.2526800414705762,-0.4864164960617613,0.3262747788216252,local_gmt_fallback,,,,,,
+40,Gatifloxacin,1,-0.4258775383978411,-0.4258775383978411,0.3750787513888309,local_gmt_fallback,gatifloxacin,Withdrawn,bacterial DNA gyrase inhibitor,,,
+41,Acetaminophen,1,-0.4223513307540039,-0.4223513307540039,0.3781365602129471,local_gmt_fallback,,,,,,
+42,Troglitazone,2,-0.2201108187469686,-0.4215355439540529,0.3788475264695327,local_gmt_fallback,troglitazone,Withdrawn,insulin sensitizer|PPAR receptor agonist,CYP2C8|PPARG|TRPM3,,
+43,Nsc319726,2,-0.2314792065451263,-0.4163404813962292,0.3834065417407353,local_gmt_fallback,,,,,,
+44,Menadione,2,-0.2043749271788502,-0.4074563391189585,0.3913304667336233,local_gmt_fallback,menadione,Launched,mitochondrial DNA polymerase inhibitor|phosphatase inhibitor,AOX1|BGLAP|F10|F2|F7|F9|GGCX|NQO1|NQO2|PROC|PROS1|PROZ|VKORC1|VKORC1L1,gastroenterology|neurology/psychiatry|dermatology|rheumatology,ulcerative colitis|diarrhea|headache|varicose veins|rheumatoid arthritis
+46,Temozolomide,2,-0.2215996948386251,-0.3994573862269943,0.3986048822384728,local_gmt_fallback,temozolomide,Launched,DNA alkylating agent,MGMT,oncology,glioblastoma|astrocytoma
+47,Bortezomib,2,-0.2469833591108348,-0.3960399860685954,0.4017538191393853,local_gmt_fallback,bortezomib,Launched,NFkB pathway inhibitor|proteasome inhibitor,PSMA1|PSMA2|PSMA3|PSMA4|PSMA5|PSMA6|PSMA7|PSMA8|PSMB1|PSMB10|PSMB11|PSMB2|PSMB3|PSMB4|PSMB5|PSMB6|PSMB7|PSMB8|PSMB9|PSMD1|PSMD2|RELA,hematologic malignancy,multiple myeloma|mantle cell lymphoma (MCL)
+48,Tretinoin,2,-0.2022506668524779,-0.3841695335072188,0.4128862940342384,local_gmt_fallback,tretinoin,Launched,retinoid receptor agonist|retinoid receptor ligand,ALDH1A1|ALDH1A2|GPRC5A|NR0B1|NR2C2|PPARD|RARA|RARB|RARG|RARRES1|RORB|RORC|RXRB|RXRG,hematologic malignancy,acute promyelocytic leukemia (APL)
+50,Ethinyl,2,-0.2359381563388563,-0.3608536347782757,0.4356586739264963,local_gmt_fallback,,,,,,
+51,Angiotensin,1,-0.3573499086572997,-0.3573499086572997,0.4391876218186125,local_gmt_fallback,,,,,,
+52,Oprelvekin,1,-0.3434199095232767,-0.3434199095232767,0.4535029228719218,local_gmt_fallback,,,,,,
+53,Concanavalin,2,-0.1731623326416944,-0.3335623935391802,0.463914136305011,local_gmt_fallback,,,,,,
+54,Rosiglitazone,4,-0.0823858645534569,-0.3247807178867396,0.4733902207952233,local_gmt_fallback,rosiglitazone,Withdrawn,insulin sensitizer|PPAR receptor agonist,FFAR1|PPARG|TRPC5|TRPM3,,
+55,Orotic,1,-0.323346554503317,-0.323346554503317,0.4749560734028826,local_gmt_fallback,,,,,,
+56,Cobalt,2,-0.1602953860593522,-0.318334528403956,0.4804691100725,local_gmt_fallback,,,,,,
+57,Arachidonic,2,-0.1552957613639059,-0.3104221360690176,0.4893029835839422,local_gmt_fallback,,,,,,
+58,Haloperidol,2,-0.1627678952156626,-0.3044551098398037,0.4960722004621259,local_gmt_fallback,haloperidol,Launched,dopamine receptor antagonist,DRD1|DRD2|DRD3|DRD4|DRD5|GRIN2B|HRH1|HTR1A|HTR1D|HTR2A|HTR2B|HTR7|KCNH1,neurology/psychiatry,schizophrenia|Tourette's disorder
+59,Interferon,5,-0.0268487724713171,-0.302732733560895,0.4980434885031516,local_gmt_fallback,,,,,,
+60,Bleomycin,2,-0.1603660445793072,-0.2972041219651922,0.5044241583514276,local_gmt_fallback,bleomycin,Launched,DNA synthesis inhibitor,,hematologic malignancy|pulmonary|oncology,non-Hodgkin lymphoma (NHL)|Hodgkin's lymphoma|pleural effusion|testicular carcinoma|squamous cell carcinoma
+61,Sevoflurane,2,-0.185424962231213,-0.2950057209449304,0.5069840297490971,local_gmt_fallback,sevoflurane,Launched,membrane integrity inhibitor,ATP2C1|ATP5D|GABRA1|GABRA2|GABRA3|GABRA4|GABRA5|GABRA6|GABRB1|GABRB2|GABRB3|GABRD|GABRE|GABRG1|GABRG2|GABRG3|GABRP|GABRQ|GLRA1|GLRB|GRIA1|KCNA1|KCNK10|KCNK18|KCNK2|KCNK3|KCNK9|MT-ND1,neurology/psychiatry,anesthetic
+62,Nickel,4,-0.1164518246864305,-0.2856632818502049,0.5180082996275324,local_gmt_fallback,,,,,,
+63,Halothane,2,-0.1587355201726435,-0.2856632818502049,0.5180082996275324,local_gmt_fallback,halothane,Launched,glutamate receptor antagonist,GABRA1|GABRA2|GABRA3|GABRA4|GABRA5|GABRA6|GABRB1|GABRB2|GABRB3|GABRD|GABRE|GABRG1|GABRG2|GABRG3|GABRP|GABRQ|GLRA1|GLRB|KCNK10|KCNK12|KCNK13|KCNK15|KCNK18|KCNK2|KCNK3|KCNK9,neurology/psychiatry,general anaesthetic
+64,Nitric,2,-0.146699550556623,-0.284714122453031,0.5191416553057453,local_gmt_fallback,,,,,,
+65,Mepenzolate,4,-0.096837902973036,-0.2829000733628684,0.5213146463772894,local_gmt_fallback,mepenzolate,Launched,acetylcholine receptor antagonist,,gastroenterology,peptic ulcer disease (PUD)
+66,Isotretinoin,2,-0.1405064788502109,-0.280739086392057,0.5239150975595345,local_gmt_fallback,isotretinoin,Launched,retinoid receptor agonist,RARA|RARB|RARG,dermatology,acne vulgaris (AV)
+67,Pertuzumab,2,-0.1439690591525746,-0.2796158331542351,0.5252718981662446,local_gmt_fallback,,,,,,
+68,Aminolevulinic,2,-0.1655787979022683,-0.2719094474879107,0.5346758302869857,local_gmt_fallback,,,,,,
+69,Tamoxifen,1,-0.2691886096268724,-0.2691886096268724,0.5380360682392483,local_gmt_fallback,tamoxifen,Launched,estrogen receptor antagonist|selective estrogen receptor modulator (SERM),EBP|ESR1|ESR2|GPER1|PRKCA|PRKCB|PRKCD|PRKCE|PRKCG|PRKCI|PRKCQ|PRKCZ,oncology,breast cancer
+70,Captopril,1,-0.26787449182571,-0.26787449182571,0.53966655997532,local_gmt_fallback,captopril,Launched,angiotensin converting enzyme inhibitor,ACE|LTA4H|MMP2|MMP9,cardiology|endocrinology|nephrology,hypertension|congestive heart failure|myocardial infarction|diabetes mellitus|diabetic nephropathy
+71,Nvp,3,-0.0454411320385119,-0.2588333236582114,0.5510191295113105,local_gmt_fallback,,,,,,
+72,Mercury,2,-0.1722932518530907,-0.2516100695770119,0.5602604044130124,local_gmt_fallback,,,,,,
+73,Formaldehyde,1,-0.2510792299911859,-0.2510792299911859,0.5609456312559723,local_gmt_fallback,,,,,,
+74,Propofol,2,-0.1440302795968966,-0.2426771132328483,0.5719036743092181,local_gmt_fallback,propofol,Launched,benzodiazepine receptor agonist,FAAH|GABRA1|GABRA2|GABRA3|GABRA4|GABRA5|GABRA6|GABRB1|GABRB2|GABRB3|GABRD|GABRE|GABRG1|GABRG2|GABRG3|GABRP|GABRQ|SCN2A|SCN4A,neurology/psychiatry,anesthetic
+76,Aplidin,2,-0.1702500480702187,-0.2322388099401341,0.5858159473366282,local_gmt_fallback,,,,,,
+77,Chromium(iii),1,-0.2293757460749254,-0.2293757460749254,0.5896906665199619,local_gmt_fallback,,,,,,
+78,Neocarzinostatin,2,-0.1230595215953639,-0.2292288155865328,0.5898902043900365,local_gmt_fallback,,,,,,
+79,Mln4924,2,-0.1331712730189308,-0.2267304110772353,0.5932934980862523,local_gmt_fallback,,,,,,
+81,Lysophosphatidic,2,-0.1351363425644222,-0.2204288103382148,0.601964929056733,local_gmt_fallback,,,,,,
+82,Heregulin,2,-0.1191137214134806,-0.2072545980269121,0.6205051665938079,local_gmt_fallback,,,,,,
+83,Nicotine,2,-0.1281226535095353,-0.2068389254931262,0.6210993496623692,local_gmt_fallback,nicotine,Launched,acetylcholine receptor agonist,CHAT|CHRNA10|CHRNA2|CHRNA3|CHRNA4|CHRNA5|CHRNA6|CHRNA7|CHRNA9|CHRNB2|CHRNB3|CHRNB4|CYP19A1|TBXAS1|TRPA1,neurology/psychiatry,smoking cessation
+84,Mycophenolic,2,-0.1003174591711113,-0.1997915700401427,0.6312602310750235,local_gmt_fallback,,,,,,
+85,Telapristone,2,-0.1087902828026749,-0.1958868564107889,0.6369614422352441,local_gmt_fallback,,,,,,
+86,Sirolimus,1,-0.1950105470346451,-0.1950105470346451,0.6382479858661363,local_gmt_fallback,sirolimus,Launched,mTOR inhibitor,FKBP1A|MTOR,transplant|pulmonary,organ rejection|lymphangioleiomyomatosis
+87,Lipopolysaccharide,2,-0.0985163943726706,-0.1939818495086991,0.6397615725117691,local_gmt_fallback,,,,,,
+88,Fluorouracil,2,-0.1618077363801886,-0.1864338710384166,0.6509777260849181,local_gmt_fallback,,,,,,
+89,Cigarette,2,-0.1062175817756385,-0.17582412543154,0.6670768580748608,local_gmt_fallback,,,,,,
+90,Insulin,4,-0.0898004718351949,-0.1727411689028768,0.6718291307810009,local_gmt_fallback,,,,,,
+91,Laccaic,2,-0.128559955989138,-0.169163608991973,0.6773862721244395,local_gmt_fallback,,,,,,
+92,Rituximab,2,-0.099974055221266,-0.1672018702448747,0.6804529946869343,local_gmt_fallback,,,,,,
+93,Valproic,1,-0.1668481665143809,-0.1668481665143809,0.6810074037518608,local_gmt_fallback,,,,,,
+94,"Puromycin,",8,-0.0724813491369902,-0.1652692681254914,0.68348774475142,local_gmt_fallback,,,,,,
+96,Methylprednisolone,1,-0.1569933717417992,-0.1569933717417992,0.6966371461952953,local_gmt_fallback,methylprednisolone,Launched,glucocorticoid receptor agonist,NR3C1,endocrinology|rheumatology|dermatology|infectious disease|allergy|hematology|neurology/psychiatry|gastroenterology,hypercalcemia|thyroiditis|ankylosing spondylitis|bursitis|osteoarthritis|psoriatic arthritis|seborrheic dermatitis|mycosis|allergic rhinitis|psoriasis|anemia|multiple sclerosis|ulcerative colitis|enteritis
+97,Aldosterone,2,-0.0878312918755423,-0.1563921295869561,0.6976022463724778,local_gmt_fallback,,,,,,
+98,Tibolone,2,-0.0840023421867646,-0.1563614029231298,0.6976516040062741,local_gmt_fallback,tibolone,Launched,androgen receptor agonist|estrogen receptor agonist|progesterone receptor agonist,ESR1,obstetrics/gynecology,endometriosis
+99,Citalopram,1,-0.1422971372963798,-0.1422971372963798,0.7206142777882951,local_gmt_fallback,citalopram,Launched,selective serotonin reuptake inhibitor (SSRI),ADRA1A|CHRM1|HRH1|SLC6A2|SLC6A3|SLC6A4,neurology/psychiatry,depression
+100,Azacitidine,2,-0.0751685311638389,-0.1406019837162344,0.7234325014382263,local_gmt_fallback,azacitidine,Launched,DNA methyltransferase inhibitor,DNMT1|DNMT3A,hematologic malignancy|hematology,myelodysplastic diseases (MDS)|anemia|chronic myelomonocytic leukemia (CMMoL)
+101,Coenzyme,2,-0.0718981344828304,-0.1396791201272601,0.7249714096956764,local_gmt_fallback,,,,,,
+102,Motexafin,3,-0.038912972589239,-0.1383413139088557,0.727208063941605,local_gmt_fallback,,,,,,
+103,Vancomycin,2,-0.0866336216064343,-0.1337792325325518,0.734887342827582,local_gmt_fallback,vancomycin,Launched,bacterial cell wall synthesis inhibitor,,infectious disease,endocarditis
+104,Vitamin,5,-0.0282657709268064,-0.130447682426826,0.7405464725003201,local_gmt_fallback,,,,,,
+105,Cocaine,2,-0.0664358309546802,-0.1293595999068598,0.7424041657138098,local_gmt_fallback,,,,,,
+106,Resveratrol,1,-0.1175660213987462,-0.1175660213987462,0.7628409153554915,local_gmt_fallback,resveratrol,Launched,cytochrome P450 inhibitor|SIRT activator,CSNK2A1|NQO2|PTGS1|PTGS2,,
+107,Cyclosporine,2,-0.0820817463496565,-0.1167573603670859,0.7642626566446964,local_gmt_fallback,,,,,,
+108,Calcitriol,2,-0.0599086203824246,-0.1143837589301989,0.7684511079024555,local_gmt_fallback,calcitriol,Launched,vitamin D receptor agonist,VDR,endocrinology|orthopedics,hypocalcemia|hypoparathyroidism|osteoporosis
+109,Cetuximab,1,-0.1138770220378245,-0.1138770220378245,0.769348263655868,local_gmt_fallback,,,,,,
+110,Phorbol,4,-0.0458879190411959,-0.1126084078914571,0.7715988862686576,local_gmt_fallback,,,,,,
+111,Epz004777,1,-0.1100113080182099,-0.1100113080182099,0.7762269052223303,local_gmt_fallback,EPZ004777,Preclinical,histone lysine methyltransferase inhibitor,DOT1L,,
+112,Phosgene,2,-0.0823791260004373,-0.1080217742788864,0.7797910130597747,local_gmt_fallback,,,,,,
+113,Abiraterone,2,-0.0517019002587244,-0.1032096749486235,0.7884793522857317,local_gmt_fallback,abiraterone,Launched,androgen biosynthesis inhibitor,CYP11B1|CYP17A1,oncology,prostate cancer
+114,Adenosine,2,-0.0773773164206214,-0.0993260283326659,0.7955618915272882,local_gmt_fallback,adenosine,Launched,adenosine receptor agonist,ADORA1|ADORA2A|ADORA2B|ADORA3|PI4K2A|PI4K2B|TRPM4,cardiology,Wolff-Parkinson-White Syndrome (WPW)
+115,Triiodothyronine,2,-0.0850523515749645,-0.0983793245363062,0.7972980014405456,local_gmt_fallback,,,,,,
+116,Ascorbic,1,-0.0956401354354579,-0.0956401354354579,0.8023426241837225,local_gmt_fallback,,,,,,
+117,Apratoxin,2,-0.0475562013636863,-0.0947484214089021,0.8039917245367704,local_gmt_fallback,,,,,,
+118,Formoterol,2,-0.0481565870521666,-0.0936257613614126,0.8060727480427219,local_gmt_fallback,formoterol,Launched,adrenergic receptor agonist,ADRB2,pulmonary,asthma|chronic obstructive pulmonary disease (COPD)|bronchospasm
+119,Dmnq,2,-0.0779378031700312,-0.0931712942286543,0.8069167037628414,local_gmt_fallback,,,,,,
+120,Pimecrolimus,2,-0.0470028237461038,-0.0929764341291696,0.8072788339658482,local_gmt_fallback,pimecrolimus,Launched,calcineurin inhibitor,,dermatology,eczema
+121,Bisphenol,2,-0.0470436898789019,-0.091935199877638,0.8092166316009546,local_gmt_fallback,,,,,,
+122,Torcetrapib,2,-0.0584247836040255,-0.0914502398806503,0.8101207574953174,local_gmt_fallback,torcetrapib,Phase 3,cholesteryl ester transfer protein inhibitor,CETP,,
+123,Perfluorooctanoic,2,-0.0488541633880906,-0.0888538956206047,0.8149784111240624,local_gmt_fallback,,,,,,
+124,Methoxychlor,2,-0.0740795677640298,-0.087344782992553,0.8178152731972552,local_gmt_fallback,,,,,,
+125,Carbidopa,2,-0.0435009980861988,-0.0855189545350103,0.8212607085970489,local_gmt_fallback,carbidopa,Launched,aromatic L-amino acid decarboxylase inhibitor,DDC,neurology/psychiatry,Parkinson's Disease
+126,Chromium,2,-0.0787456876030212,-0.0843320403524277,0.82350826006526,local_gmt_fallback,,,,,,
+127,Bexarotene,2,-0.0415458323927133,-0.0820044507740008,0.8279336787678375,local_gmt_fallback,bexarotene,Launched,retinoid receptor agonist,RXRA|RXRB|RXRG,hematologic malignancy,cutaneous T-cell lymphoma (CTCL)
+128,Cediranib,1,-0.0808633960853747,-0.0808633960853747,0.8301118316042859,local_gmt_fallback,cediranib,Phase 3,KIT inhibitor|VEGFR inhibitor,CSF1R|FLT1|FLT3|FLT4|KDR|KIT|PDGFRA|PDGFRB,,
+129,Deferasirox,2,-0.0400465681702246,-0.0798450347133502,0.8320606146395793,local_gmt_fallback,deferasirox,Launched,chelating agent,CYP3A4,hematology,transfusional hemosiderosis|thalassemia|iron overload
+130,Hypochlorous,2,-0.0530382759049707,-0.0788218439329198,0.8340232470574659,local_gmt_fallback,,,,,,
+131,Calcitonin,2,-0.0396246407595708,-0.0788218439329198,0.8340232470574659,local_gmt_fallback,calcitonin,Launched,calcitonin agonist,,orthopedics,osteoporosis
+132,Diethylstilbestrol,2,-0.0435399355056847,-0.0786258359587188,0.8343997475880582,local_gmt_fallback,diethylstilbestrol,Withdrawn,estrogen receptor agonist,ESR1|ESR2|ESRRB|ESRRG,,
+133,Trichloroethylene,1,-0.0772798709408668,-0.0772798709408668,0.8369897298015855,local_gmt_fallback,trichloroethylene,Preclinical,,,,
+134,Anastrozole,2,-0.0511182689680646,-0.0767337801788753,0.8380428397648344,local_gmt_fallback,anastrozole,Launched,aromatase inhibitor,CYP19A1,oncology,breast cancer
+135,Laminin,2,-0.0388523817043353,-0.0764464598626628,0.8385974551493398,local_gmt_fallback,,,,,,
+136,Irinotecan,2,-0.042654592843245,-0.0758273216652321,0.8397938276808115,local_gmt_fallback,irinotecan,Launched,topoisomerase inhibitor,TOP1|TOP1MT,oncology,colorectal cancer
+137,Dapt,1,-0.07537814348197,-0.07537814348197,0.8406628513989628,local_gmt_fallback,DAPT,Preclinical,gamma secretase inhibitor,,,
+138,Folic,2,-0.0422499031899971,-0.074853662857688,0.8416787006406611,local_gmt_fallback,,,,,,
+139,Nicotinamide,2,-0.0422499031899971,-0.074853662857688,0.8416787006406611,local_gmt_fallback,nicotinamide,Launched,protein synthesis stimulant,BST1|LDHA|PARP1|SIRT5,dermatology,acne vulgaris (AV)
+140,Pyrazinamide,1,-0.0748004172929821,-0.0748004172929821,0.8417818988320978,local_gmt_fallback,pyrazinamide,Launched,fatty acid synthase inhibitor,FASN,infectious disease,tuberculosis
+141,Fluticasone,2,-0.0369763715240186,-0.0726378831001418,0.8459839367806992,local_gmt_fallback,,,,,,
+142,Trastuzumab,2,-0.0406291341221481,-0.0722565854080413,0.8467270117718759,local_gmt_fallback,,,,,,
+143,Chlorambucil,2,-0.040992333713959,-0.0714799768461433,0.8482424897840866,local_gmt_fallback,chlorambucil,Launched,DNA inhibitor,,hematologic malignancy,chronic lymphocytic leukemia (CLL)|Hodgkin's lymphoma
+144,Mehp,2,-0.0508969423093744,-0.0710777045722311,0.8490285520771725,local_gmt_fallback,,,,,,
+146,Soman,2,-0.0396678129469818,-0.0690284790207481,0.853044173497308,local_gmt_fallback,,,,,,
+147,Methylphenidate,2,-0.0405082982699751,-0.0682543247957414,0.8545661285704815,local_gmt_fallback,,,,,,
+148,Pd173074,1,-0.0674848687910642,-0.0674848687910642,0.85608153784845,local_gmt_fallback,,,,,,
+149,Sulforaphane,2,-0.0343629135457253,-0.067321823780978,0.8564029926054125,local_gmt_fallback,sulforaphane,Phase 2,anticancer agent|aryl hydrocarbon receptor antagonist,NFE2L2,,
+150,Y15,2,-0.0385805600863673,-0.0670071126937162,0.8570238091372737,local_gmt_fallback,,,,,,
+151,Foretinib,2,-0.0342941761537776,-0.0657543997274619,0.8594994443746921,local_gmt_fallback,foretinib,Phase 2,VEGFR inhibitor,FLT1|FLT4|KDR|MET,,
+152,Sapphyrin,3,-0.0041600428412745,-0.0657533827856559,0.8595014569766867,local_gmt_fallback,,,,,,
+153,Mek,2,-0.0560108465623206,-0.0652449470606781,0.8605082787687202,local_gmt_fallback,,,,,,
+155,Lubiprostone,1,-0.0642210318850981,-0.0642210318850981,0.8625394511358501,local_gmt_fallback,lubiprostone,Launched,chloride channel activator,CLCN2,gastroenterology,constipation|irritable bowel syndrome
+156,Cytarabine,2,-0.0379575768970147,-0.0632381909201719,0.8644936529836805,local_gmt_fallback,cytarabine,Launched,ribonucleotide reductase inhibitor,POLA1|POLB|POLD1|POLE,hematologic malignancy,acute lymphoblastic leukemia (ALL)|chronic lymphocytic leukemia (CLL)|acute myeloid leukemia (AML)|non-Hodgkin lymphoma (NHL)
+157,Thapsigargin,2,-0.0374417888723105,-0.0624201462948277,0.8661235628171262,local_gmt_fallback,,,,,,
+158,Mesalazine,2,-0.0329158634531656,-0.0621445623255803,0.8666733407356302,local_gmt_fallback,mesalazine,Launched,cyclooxygenase inhibitor|lipoxygenase inhibitor|prostanoid receptor antagonist,ALOX5|CHUK|IKBKB|MPO|PPARG|PTGS1|PTGS2,gastroenterology,ulcerative colitis|inflammatory bowel disease
+159,Progesterone,2,-0.0301835229426669,-0.0602991660881655,0.870363828603895,local_gmt_fallback,progesterone,Launched,progesterone receptor agonist,CATSPER1|CATSPER2|CATSPER3|CATSPER4|CYP17A1|ESR1|NR3C2|OPRK1|PGR|TRPC5,obstetrics/gynecology|endocrinology,infertility|amenorrhea
+160,Argyrin,2,-0.0366189844680417,-0.0592867042384913,0.8723952570029813,local_gmt_fallback,,,,,,
+161,Colistin,1,-0.0583848738140881,-0.0583848738140881,0.8742087039739004,local_gmt_fallback,colistin,Launched,bacterial permeability inducer,,infectious disease,gram-negative bacterial infections|gram-negative bacterial infections
+162,Gefitinib,2,-0.0399305295593211,-0.0576026151537934,0.8757847626525794,local_gmt_fallback,gefitinib,Launched,EGFR inhibitor,EGFR,oncology,non-small cell lung cancer (NSCLC)
+163,Atorvastatin,1,-0.0562307514887548,-0.0562307514887548,0.8785555943012354,local_gmt_fallback,atorvastatin,Launched,HMGCR inhibitor,AHR|DPP4|HMGCR,neurology/psychiatry|cardiology,stroke|heart attack
+165,Letrozole,2,-0.0335373227730315,-0.0535696510169765,0.8839553913702684,local_gmt_fallback,letrozole,Launched,aromatase inhibitor,CYP19A1,oncology,breast cancer
+166,Creatine,2,-0.0337179053584654,-0.0499696651886345,0.8913131928352107,local_gmt_fallback,creatine,Launched,,CKB|CKM|CKMT1A|CKMT2|GAMT|SLC6A8,,
+167,Isoflurane,2,-0.0480079173928572,-0.0498438747906297,0.8915713929383877,local_gmt_fallback,isoflurane,Launched,inhaled anaesthetic,GABRA1|GABRA2|GABRA3|GABRA4|GABRA5|GABRA6|GABRB1|GABRB2|GABRB3|GABRD|GABRE|GABRG1|GABRG2|GABRG3|GABRP|GABRQ|GLRA1|GLRB|KCNK10|KCNK18|KCNK2|KCNK3|KCNK9,neurology/psychiatry,general anaesthetic
+168,Vanadium,2,-0.0267846837515892,-0.0482214588117562,0.8949083105909299,local_gmt_fallback,,,,,,
+169,Alitretinoin,1,-0.047726447423065,-0.047726447423065,0.8959289138478845,local_gmt_fallback,,,,,,
+170,Hydroxyzine,2,-0.0309280744753754,-0.0445824952371006,0.902438270961054,local_gmt_fallback,hydroxyzine,Launched,antihistamine,HRH1,neurology/psychiatry|allergy|dermatology,anxiety|urticaria|itching|dermatosis
+171,Lapatinib,2,-0.0315519264634008,-0.0437950456737862,0.904076028941099,local_gmt_fallback,lapatinib,Launched,EGFR inhibitor,EGFR|ERBB2,oncology,breast cancer
+172,Ribavirin,1,-0.0401931043575635,-0.0401931043575635,0.9116054137128689,local_gmt_fallback,ribavirin,Launched,antiviral,ADK|ENPP1|IMPDH1|IMPDH2|NT5C2,infectious disease,hepatitis C
+173,Paclitaxel,2,-0.0228171482821256,-0.0400989729453382,0.9118030215775292,local_gmt_fallback,paclitaxel,Launched,tubulin polymerization inhibitor,BCL2|MAP2|MAP4|MAPT|NR1I2|TLR4|TUBA1A|TUBA1B|TUBA1C|TUBA3C|TUBA3D|TUBA3E|TUBA4A|TUBB|TUBB1|TUBB2A|TUBB2B|TUBB3|TUBB4A|TUBB4B|TUBB6|TUBB8,oncology,ovarian cancer|breast cancer|non-small cell lung cancer (NSCLC)
+174,Promegestone,2,-0.0203260132896425,-0.0399138826335761,0.9121917022550928,local_gmt_fallback,,,,,,
+175,Levetiracetam,2,-0.0208233866226395,-0.0372677909536379,0.9177665166260384,local_gmt_fallback,levetiracetam,Launched,calcium channel blocker,CACNA1B|SCN1A|SV2A,neurology/psychiatry,seizures
+176,Etanercept,2,-0.0222447828596916,-0.0372663272309942,0.9177696098219038,local_gmt_fallback,,,,,,
+178,Sorafenib,2,-0.0193784120018629,-0.0356243541527932,0.9212460650353494,local_gmt_fallback,sorafenib,Launched,FLT3 inhibitor|KIT inhibitor|PDGFR tyrosine kinase receptor inhibitor|RAF inhibitor|RET tyrosine kinase inhibitor|VEGFR inhibitor,BRAF|DDR2|FGFR1|FLT1|FLT3|FLT4|KDR|KIT|PDGFRB|RAF1|RET,oncology,renal cell carcinoma (RCC)|thyroid cancer|hepatocellular carcinoma (HCC)
+179,Vemurafenib,1,-0.0344704618973345,-0.0344704618973345,0.9236970106069556,local_gmt_fallback,vemurafenib,Launched,RAF inhibitor,BRAF|RAF1,oncology,melanoma
+180,Ursodeoxycholic,1,-0.0311614777288929,-0.0311614777288929,0.9307617388187662,local_gmt_fallback,,,,,,
+181,Ethanol,2,-0.0160137339569411,-0.0297398859173281,0.9338134267068804,local_gmt_fallback,,,,,,
+182,Imiquimod,2,-0.0193358969000895,-0.0296701109639242,0.9339634678090978,local_gmt_fallback,imiquimod,Launched,interferon inducer|toll-like receptor agonist,TLR7|TLR8,dermatology|infectious disease|oncology,actinic keratosis (AK)|genital warts|basal cell carcinoma (BCC)
+183,Dexamethasone,2,-0.0268160641844343,-0.0293723742736972,0.93460397913092,local_gmt_fallback,dexamethasone,Launched,glucocorticoid receptor agonist,ANXA1|NOS2|NR0B1|NR3C1|NR3C2,endocrinology|rheumatology|allergy|gastroenterology|hematology|neurology/psychiatry|dermatology,hypercalcemia|rheumatoid arthritis|psoriatic arthritis|osteoarthritis|allergic rhinitis|ulcerative colitis|anemia|multiple sclerosis|enteritis|lupus|dermatitis herpetiformis (DH)|nephrotic syndrome|psoriasis
+184,Diclofenac,2,-0.0165270002280905,-0.0289368516177803,0.9355416962527984,local_gmt_fallback,diclofenac,Launched,cyclooxygenase inhibitor,AKR1C3|ALOX5|ASIC1|ASIC3|KCNQ2|KCNQ3|PLA2G2A|PPARG|PTGS1|PTGS2|SCN4A,rheumatology|neurology/psychiatry,rheumatoid arthritis|osteoarthritis|migraine headache
+185,Alfacalcidol,2,-0.0187683486514809,-0.027800667912504,0.9379924270550242,local_gmt_fallback,alfacalcidol,Launched,vitamin D receptor agonist,CYP27B1|VDR,endocrinology,vitamin D deficiency
+186,Clozapine,2,-0.018312230362424,-0.0268893821134046,0.9399626952459608,local_gmt_fallback,clozapine,Launched,dopamine receptor antagonist|serotonin receptor antagonist,ADRA1A|ADRA1B|ADRA1D|ADRA2A|ADRA2B|ADRA2C|CALY|CHRM1|CHRM2|CHRM3|CHRM4|CHRM5|DRD1|DRD2|DRD3|DRD4|DRD5|HRH1|HRH4|HTR1A|HTR1B|HTR1D|HTR1E|HTR1F|HTR2A|HTR2B|HTR2C|HTR3A|HTR5A|HTR6|HTR7,neurology/psychiatry,schizophrenia
+187,Celecoxib,2,-0.017483403653014,-0.0247640498398615,0.944573919497518,local_gmt_fallback,celecoxib,Launched,cyclooxygenase inhibitor,CA12|PDPK1|PTGS2,rheumatology|endocrinology,osteoarthritis|rheumatoid arthritis|ankylosing spondylitis|primary dysmenorrhea (PD)
+188,Testosterone,1,-0.0234426546322646,-0.0234426546322646,0.947452280297031,local_gmt_fallback,,,,,,
+189,Hydrocortisone,1,-0.0223735610670691,-0.0223735610670691,0.9497874766626726,local_gmt_fallback,hydrocortisone,Launched,glucocorticoid receptor agonist,ANXA1|NOS2|NR3C1|NR3C2,dermatology|neurology/psychiatry,eczema|psoriasis|seborrheic dermatitis|itching
+191,Streptozocin,1,-0.020760487200056,-0.020760487200056,0.9533217747002544,local_gmt_fallback,,,,,,
+192,Fenretinide,2,-0.0097536318379448,-0.0194658153251353,0.9561679550234152,local_gmt_fallback,fenretinide,Phase 3,apoptosis stimulant|retinoid receptor agonist,RARA,,
+193,Phenytoin,2,-0.0136036861489706,-0.0194658153251353,0.9561679550234152,local_gmt_fallback,phenytoin,Launched,hydantoin antiepileptic,SCN10A|SCN11A|SCN1A|SCN2A|SCN3A|SCN4A|SCN5A|SCN7A|SCN8A|SCN9A,neurology/psychiatry,seizures
+194,Gamma,2,-0.0110801673997163,-0.0192704541641284,0.9565981702578232,local_gmt_fallback,,,,,,
+195,Hydrogen,2,-0.0182192887293591,-0.0191995125468492,0.9567544424810812,local_gmt_fallback,,,,,,
+196,Sangivamycin,2,-0.0177883725356107,-0.019086512909348,0.9570034140336134,local_gmt_fallback,sangivamycin,Phase 1,DNA inhibitor,,,
+197,Decitabine,2,-0.0092532002283147,-0.0181190432181504,0.959137688992018,local_gmt_fallback,decitabine,Launched,DNA methyltransferase inhibitor,DNMT1|DNMT3A,hematologic malignancy|hematology,myelodysplastic diseases (MDS)|anemia|chronic myeloid leukemia (CML)
+198,Palmitic,2,-0.00998828952645,-0.0177611044332376,0.9599285212696632,local_gmt_fallback,,,,,,
+199,Curcumin,1,-0.0176568970805178,-0.0176568970805178,0.9601588801994622,local_gmt_fallback,curcumin,Launched,cyclooxygenase inhibitor|histone acetyltransferase inhibitor|lipoxygenase inhibitor|NFkB pathway inhibitor,APP|CA1|CA12|CA14|CA2|CA4|CA6|CA9|CHRM3|CYP3A4|DNMT3B|EP300|MMP13|MMP9|NOS2|PTGS1|PTGS2|XDH,,
+200,Permethrin,2,-0.0109860137920475,-0.0174827334951467,0.9605440065487996,local_gmt_fallback,permethrin,Launched,,,infectious disease,lice
+201,R1881,2,-0.0159716704690134,-0.016890227604195,0.961855366494734,local_gmt_fallback,,,,,,
+202,Bpde,2,-0.0082721489361408,-0.0159162380598435,0.9640149342865066,local_gmt_fallback,,,,,,
+203,Cyclophosphamide,2,-0.0082779517829811,-0.0159162380598435,0.9640149342865066,local_gmt_fallback,cyclophosphamide,Launched,DNA alkylating agent,CYP2A6|CYP2B6|CYP2C18|CYP2C19|CYP2C8|CYP2C9|CYP2D6|CYP3A4|CYP3A5|CYP3A7,hematologic malignancy|oncology,Hodgkin's lymphoma|small lymphocytic lymphoma (SLL)|breast cancer|neuroblastoma|Burkitt's lymphoma|multiple myeloma|chronic lymphocytic leukemia (CLL)|acute myeloid leukemia (AML)|acute lymphoblastic leukemia (ALL)|chronic myeloid leukemia (CML)|true histiocytic lymphoma (THL)|retinoblastoma|ovarian cancer
+205,Corticosterone,2,-0.0102817269885203,-0.0150430624707967,0.9659550949605072,local_gmt_fallback,corticosterone,Preclinical,mineralocorticoid receptor agonist,HSD11B1|NCOA1|NR3C2,,
+206,Capsaicin,2,-0.0070415400382536,-0.0135049945290864,0.969382121023588,local_gmt_fallback,capsaicin,Launched,TRPV agonist,CFTR|TRPV1,neurology/psychiatry|rheumatology,muscle pain|rheumatoid arthritis
+207,Deltamethrin,2,-0.0074581859497251,-0.0134894990960371,0.9694167087615304,local_gmt_fallback,,,,,,
+208,Acrylamide,2,-0.0121502185917492,-0.0134830030765543,0.9694312090538124,local_gmt_fallback,,,,,,
+209,Cyfluthrin,1,-0.0130589141650363,-0.0130589141650363,0.9703783217634891,local_gmt_fallback,,,,,,
+210,Medroxyprogesterone,2,-0.0068002331149964,-0.0126948765492436,0.9711920606445628,local_gmt_fallback,medroxyprogesterone,Launched,progesterone receptor agonist,PGR,endocrinology,contraceptive
+211,Doxorubicin,2,-0.0066086871415661,-0.0124954452792934,0.97163814170694,local_gmt_fallback,doxorubicin,Launched,topoisomerase inhibitor,TOP2A,hematologic malignancy|oncology,acute lymphoblastic leukemia (ALL)|acute myeloid leukemia (AML)|Wilm's tumor|breast cancer|ovarian cancer|Hodgkin's lymphoma|bladder cancer|multiple myeloma
+212,Harman,2,-0.0089809613986361,-0.0119254596356379,0.9729141960928124,local_gmt_fallback,,,,,,
+213,Dasatinib,2,-0.0085595546438817,-0.0117411618074687,0.9733271509689624,local_gmt_fallback,dasatinib,Launched,Bcr-Abl kinase inhibitor|ephrin inhibitor|KIT inhibitor|PDGFR tyrosine kinase receptor inhibitor|SRC inhibitor|tyrosine kinase inhibitor,ABL1|ABL2|BLK|EPHA2|FGR|FRK|FYN|HCK|KIT|LCK|LYN|PDGFRB|SRC|SRMS|STAT5B|YES1,hematologic malignancy,chronic myeloid leukemia (CML)|acute lymphoblastic leukemia (ALL)
+214,Olanzapine,1,-0.0117045960234228,-0.0117045960234228,0.9734091045056016,local_gmt_fallback,olanzapine,Launched,dopamine receptor antagonist|serotonin receptor antagonist,ADRA1A|ADRA1B|ADRA2A|ADRA2B|ADRA2C|ADRB1|ADRB2|ADRB3|CHRM1|CHRM2|CHRM3|CHRM4|CHRM5|DRD1|DRD2|DRD3|DRD4|DRD5|GABRA1|GABRA2|GABRA3|GABRA4|GABRA5|GABRA6|GABRB1|GABRB2|GABRB3|GABRD|GABRE|GABRG1|GABRG2|GABRG3|GABRP|GABRQ|HRH1|HRH2|HRH4|HTR1A|HTR1B|HTR1D|HTR1E|HTR1F|HTR2A|HTR2B|HTR2C|HTR3A|HTR5A|HTR6|HTR7,neurology/psychiatry,schizophrenia|bipolar disorder
+215,Caerulein,1,-0.0112528680561343,-0.0112528680561343,0.974422115025831,local_gmt_fallback,,,,,,
+216,Monuron,2,-0.0083790536269242,-0.0103634663585822,0.9764197013284568,local_gmt_fallback,,,,,,
+217,Azathioprine,2,-0.0086787708942474,-0.0100444803641902,0.977137137617454,local_gmt_fallback,azathioprine,Launched,dehydrogenase inhibitor,HPRT1|IMPDH1|PPAT,transplant|rheumatology,renal homotransplantation|rheumatoid arthritis
+218,Luteolin,2,-0.0069907269679707,-0.0098797538093255,0.9775078330114229,local_gmt_fallback,luteolin,Phase 2,glucosidase inhibitor,TOP1,,
+219,Trichostatin,1,-0.0095909297029134,-0.0095909297029134,0.9781581330702682,local_gmt_fallback,,,,,,
+220,Androstanolone,2,-0.0070838256258473,-0.009525345096543,0.978305859930684,local_gmt_fallback,,,,,,
+221,Estradiol,2,-0.0083955259654851,-0.0088521113192327,0.9798235842780196,local_gmt_fallback,estradiol,Launched,estrogen receptor agonist,ESR1|ESR2|GPER1|KCNMA1|NR1I2,endocrinology,contraceptive
+222,Methamphetamine,1,-0.0088512138745722,-0.0088512138745722,0.9798256090294016,local_gmt_fallback,,,,,,
+223,Chlorpyrifos,1,-0.0081987524676069,-0.0081987524676069,0.9812987542960108,local_gmt_fallback,chlorpyrifos,Launched,acetylcholinesterase inhibitor,ACHE,,
+224,Genistein,1,-0.0073775645863202,-0.0073775645863202,0.9831560032674208,local_gmt_fallback,genistein,Phase 2/Phase 3,tyrosine kinase inhibitor,CFTR|ESR1|ESR2|ESRRA|ESRRB|ESRRG|NCOA1|NCOA2|PPARG|PTK2B|TOP2A|TRPC5,,
+225,Metoprolol,1,-0.0069462310220864,-0.0069462310220864,0.9841329414027054,local_gmt_fallback,metoprolol,Launched,adrenergic receptor antagonist,ADRB1|ADRB2,cardiology,hypertension|angina pectoris|myocardial infarction
+226,Cycloheximide,2,-0.0042674924842464,-0.006781504586805,0.9845062905156392,local_gmt_fallback,cycloheximide,Preclinical,protein synthesis inhibitor,RPL3,,
+227,Fluoxetine,2,-0.0040425502755358,-0.0065185853263058,0.9851024851353376,local_gmt_fallback,fluoxetine,Launched,selective serotonin reuptake inhibitor (SSRI),ANO1|HTR2B|SLC6A4,neurology/psychiatry,depression|obsessive compulsive disorder (OCD)|bulimia nervosa|panic disorders|bipolar disorder
+228,Heroin,2,-0.0030168769091967,-0.0033084959776185,0.992410850609803,local_gmt_fallback,,,,,,
+229,"2,2',4,4',5,5'",2,-0.003068733944271,-0.0031324698509325,0.9928131712757956,local_gmt_fallback,,,,,,
+230,Plx4032,1,-0.0021965766228118,-0.0021965766228118,0.9949549645692792,local_gmt_fallback,,,,,,
+231,Natural,2,-0.0013018933014117,-0.001985841451937,0.9954378693530288,local_gmt_fallback,,,,,,
+232,Fasudil,1,-0.001510142533286,-0.001510142533286,0.9965288068834608,local_gmt_fallback,fasudil,Launched,rho associated kinase inhibitor,PKIA|PRKACA|ROCK1|ROCK2,neurology/psychiatry,cerebral vasospasm
+233,Actinomycin,2,-0.0011823326332412,-0.0012574028269503,0.9971089102671647,local_gmt_fallback,,,,,,
+234,Plx4720,1,-0.0004838832713464,-0.0004838832713464,0.9988864380634064,local_gmt_fallback,PLX4720,Preclinical,RAF inhibitor,BRAF|KDR,,
+235,Cholestyramine,1,-9.808601150208868e-05,-9.808601150208868e-05,0.9997741741145888,local_gmt_fallback,,,,,,

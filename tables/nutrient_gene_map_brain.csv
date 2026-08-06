@@ -1,0 +1,51 @@
+stratum,compound,lincs_rank,best_z_sum,n_reversing_sigs,moa,clinical_phase,drug_targets,n_targets,signature_gene_overlap,n_gene_overlap,foodb_matched,foodb_name,is_known_nutrient,vegan_food_sources,n_vegan_foods
+brain,Vemurafenib,1,-9.679257533432324,1,RAF inhibitor,Launched,BRAF; RAF1,2,BRAF,1,False,,False,,0
+brain,Chlorambucil,2,-7.2407576354731775,2,DNA inhibitor,Launched,,0,,0,False,,False,,0
+brain,Formoterol,3,-6.936082062002631,2,adrenergic receptor agonist,Launched,ADRB2,1,,0,False,,False,,0
+brain,Casiigly,4,-6.92327778723654,1,,,,0,,0,False,,False,,0
+brain,Bicalutamide,5,-6.515716548110959,1,androgen receptor antagonist,Launched,AR,1,,0,False,,False,,0
+brain,Sangivamycin,6,-5.997730983814457,1,DNA inhibitor,Phase 1,,0,,0,False,,False,,0
+brain,Sulforaphane,7,-5.89138569900939,2,anticancer agent|aryl hydrocarbon receptor antagonist,Phase 2,NFE2L2,1,,0,True,Sulforaphane,True,Broccoli; Cabbage; White cabbage,3
+brain,Sapphyrin,8,-5.673525125447933,4,,,,0,,0,False,,False,,0
+brain,Arachidonic,9,-5.402471681858998,1,,,,0,,0,True,Arachidonic acid,False,Almond; Apple; Apricot; Globe artichoke; Asparagus; Avocado; Wheat bread; Banana; Barley; Common bean; Mung bean; Adzuki bean; Soy bean; Red beetroot; Bilberry,133
+brain,Ascorbic,10,-5.297254789546903,2,,,,0,,0,True,Ascorbic acid,True,Almond; Apple; Apricot; Globe artichoke; Asparagus; Avocado; Wheat bread; Banana; Barley; Common bean; Mung bean; Adzuki bean; Soy bean; Red beetroot; Bilberry,327
+brain,Doxorubicin,11,-5.1152779338269685,2,topoisomerase inhibitor,Launched,TOP2A,1,,0,False,,False,,0
+brain,Actinomycin,12,-5.059229498052583,2,,,,0,,0,False,,False,,0
+brain,Telapristone,13,-4.989098848484495,1,,,,0,,0,False,,False,,0
+brain,Cetuximab,14,-4.593755708484538,2,,,,0,,0,False,,False,,0
+brain,Motexafin,15,-4.523424845374824,4,,,,0,,0,False,,False,,0
+brain,Bpde,16,-4.477301482434627,2,,,,0,,0,False,,False,,0
+brain,Chlorpyrifos,17,-4.414568404930535,2,acetylcholinesterase inhibitor,Launched,ACHE,1,,0,False,,False,,0
+brain,Anastrozole,18,-4.402295201479817,2,aromatase inhibitor,Launched,CYP19A1,1,,0,False,,False,,0
+brain,Luteolin,19,-4.310213539187698,2,glucosidase inhibitor,Phase 2,TOP1,1,,0,True,Luteolin,True,Olive; Globe artichoke; Celery stalks; Lentils; Common sage; Pistachio; Garden tomato (var.); Italian oregano; Garden onion (var.); Lettuce; Lemon verbena; Common thyme; Cherry tomato; Rosemary; Mexican oregano,292
+brain,Cyfluthrin,20,-4.012779185481146,2,,,,0,,0,False,,False,,0
+brain,Grepafloxacin,21,-3.8777074149360375,2,,,,0,,0,False,,False,,0
+brain,Doxycycline,22,-3.814337986845596,2,bacterial 30S ribosomal subunit inhibitor|metalloproteinase inhibitor,Launched,MMP8,1,,0,False,,False,,0
+brain,Laccaic,23,-3.638418724018064,2,,,,0,,0,False,,False,,0
+brain,Cytarabine,24,-3.58029100814679,2,ribonucleotide reductase inhibitor,Launched,POLA1; POLB; POLD1; POLE,4,,0,True,Cytarabine,False,Mushrooms; Common mushroom,2
+brain,Carboplatin,25,-3.4777359595090247,7,DNA alkylating agent|DNA inhibitor,Launched,,0,,0,False,,False,,0
+brain,Citalopram,26,-3.4220324106279643,1,selective serotonin reuptake inhibitor (SSRI),Launched,ADRA1A; CHRM1; HRH1; SLC6A2; SLC6A3; SLC6A4,6,,0,True,Citalopram,False,,0
+brain,Sodium,27,-3.4220324106279643,6,,,,0,,0,True,Sodium,False,Almond; Apple; Apricot; Globe artichoke; Asparagus; Avocado; Wheat bread; Banana; Barley; Common bean; Mung bean; Adzuki bean; Soy bean; Red beetroot; Bilberry,264
+brain,Hydrogen,28,-3.418935989997031,2,,,,0,,0,True,Hydrogen,False,,0
+brain,Dmnq,29,-3.3861380060976773,2,,,,0,,0,False,,False,,0
+brain,Temozolomide,30,-3.3232031203786274,2,DNA alkylating agent,Launched,MGMT,1,,0,False,,False,,0
+brain,Plx4720,31,-3.3067871177720725,2,RAF inhibitor,Preclinical,BRAF; KDR,2,BRAF,1,False,,False,,0
+brain,Torcetrapib,32,-3.2351751779619504,2,cholesteryl ester transfer protein inhibitor,Phase 3,CETP,1,,0,False,,False,,0
+brain,Nickel,33,-3.231107119028612,4,,,,0,,0,True,Nickel,False,Almond; Apple; Apricot; Globe artichoke; Asparagus; Avocado; Wheat bread; Banana; Barley; Common bean; Mung bean; Adzuki bean; Soy bean; Red beetroot; Bilberry,152
+brain,Trastuzumab,34,-3.231107119028612,2,,,,0,,0,False,,False,,0
+brain,Laminin,35,-3.216017040551714,2,,,,0,,0,False,,False,,0
+brain,Ursodeoxycholic,36,-3.17118400759808,2,,,,0,,0,True,Isoursodeoxycholic acid,False,,0
+brain,Sirolimus,37,-3.0297547026373897,1,mTOR inhibitor,Launched,FKBP1A; MTOR,2,,0,False,,False,,0
+brain,Dactinomycin,38,-2.9559486155730226,2,RNA polymerase inhibitor,Launched,POLR2A,1,,0,False,,False,,0
+brain,Curcumin,39,-2.921015802596023,2,cyclooxygenase inhibitor|histone acetyltransferase inhibitor|lipoxygenase inhibitor|NFkB pathway inhibitor,Launched,APP; CA1; CA12; CA14; CA2; CA4; CA6; CA9; CHRM3; CYP3A4; DNMT3B; EP300; MMP13; MMP9; NOS2; PTGS1; PTGS2; XDH,18,,0,True,Curcumin,True,Curry powder; Turmeric; Ginger; Savoy cabbage; Kiwi; Garden onion; Leek; Garlic; Chives; Lemon verbena; Cashew nut; Pineapple; Dill; Custard apple; Wild celery,287
+brain,Bexarotene,40,-2.6755628231300075,2,retinoid receptor agonist,Launched,RXRA; RXRB; RXRG,3,,0,False,,False,,0
+brain,Perfluorooctanoic,41,-2.601385513164088,2,,,,0,,0,False,,False,,0
+brain,Promegestone,42,-2.5824432639242025,2,,,,0,,0,False,,False,,0
+brain,Azacitidine,43,-2.452030588754784,2,DNA methyltransferase inhibitor,Launched,DNMT1; DNMT3A,2,,0,False,,False,,0
+brain,Argyrin,44,-2.4252370600069573,2,,,,0,,0,False,,False,,0
+brain,Pertuzumab,45,-2.3282479468513926,2,,,,0,,0,False,,False,,0
+brain,"Puromycin,",46,-2.323290260209033,9,,,,0,,0,False,,False,,0
+brain,Alfacalcidol,47,-2.245321871536532,1,vitamin D receptor agonist,Launched,CYP27B1; VDR,2,,0,False,,False,,0
+brain,Sorafenib,48,-2.2107230756878464,1,FLT3 inhibitor|KIT inhibitor|PDGFR tyrosine kinase receptor inhibitor|RAF inhibitor|RET tyrosine kinase inhibitor|VEGFR inhibitor,Launched,BRAF; DDR2; FGFR1; FLT1; FLT3; FLT4; KDR; KIT; PDGFRB; RAF1; RET,11,BRAF; KIT,2,False,,False,,0
+brain,Dasatinib,49,-2.2071156122042592,2,Bcr-Abl kinase inhibitor|ephrin inhibitor|KIT inhibitor|PDGFR tyrosine kinase receptor inhibitor|SRC inhibitor|tyrosine kinase inhibitor,Launched,ABL1; ABL2; BLK; EPHA2; FGR; FRK; FYN; HCK; KIT; LCK; LYN; PDGFRB; SRC; SRMS; STAT5B; YES1,16,KIT,1,False,,False,,0
+brain,Decitabine,50,-2.159814503839198,2,DNA methyltransferase inhibitor,Launched,DNMT1; DNMT3A,2,,0,False,,False,,0

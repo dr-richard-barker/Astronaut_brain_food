@@ -1,0 +1,798 @@
+{
+  "recipes": [
+    {
+      "name": "Broccoli Sulforaphane Power Bowl",
+      "meal_type": "lunch",
+      "phase": "in_flight",
+      "ingredients": [
+        "broccoli (raw or lightly steamed)",
+        "quinoa",
+        "avocado",
+        "sunflower seeds",
+        "lemon juice",
+        "garlic",
+        "olive oil",
+        "turmeric",
+        "black pepper"
+      ],
+      "preparation": "Lightly steam broccoli (maximizes sulforaphane). Cook quinoa. Toss with avocado, seeds, lemon-garlic-turmeric dressing.",
+      "target_nutrients": [
+        "sulforaphane",
+        "curcumin",
+        "ascorbic acid",
+        "quercetin",
+        "lutein"
+      ],
+      "nutrient_score": 143,
+      "countermeasure_tags": [
+        "Nrf2 activation",
+        "antioxidant",
+        "anti-inflammatory"
+      ]
+    },
+    {
+      "name": "Spiced Chickpea and Spinach Curry",
+      "meal_type": "dinner",
+      "phase": "in_flight",
+      "ingredients": [
+        "chickpeas",
+        "spinach",
+        "tomato",
+        "onion",
+        "garlic",
+        "ginger",
+        "turmeric",
+        "cumin",
+        "coriander",
+        "cinnamon",
+        "coconut milk"
+      ],
+      "preparation": "Saut\u00e9 onion, garlic, ginger with spices. Add tomatoes, chickpeas, coconut milk. Simmer 15 min. Add spinach at end.",
+      "target_nutrients": [
+        "curcumin",
+        "gingerol",
+        "allicin",
+        "quercetin",
+        "lutein",
+        "ascorbic acid"
+      ],
+      "nutrient_score": 137,
+      "countermeasure_tags": [
+        "anti-inflammatory",
+        "protein-rich",
+        "iron-rich"
+      ]
+    },
+    {
+      "name": "Kale Caesar with Capers and Nutritional Yeast",
+      "meal_type": "lunch",
+      "phase": "pre_flight",
+      "ingredients": [
+        "kale (massaged)",
+        "capers",
+        "nutritional yeast",
+        "garlic",
+        "lemon juice",
+        "olive oil",
+        "hemp seed",
+        "mustard",
+        "black pepper"
+      ],
+      "preparation": "Massage kale with olive oil and lemon. Add capers, nutritional yeast, hemp seeds. Toss with garlic-mustard dressing.",
+      "target_nutrients": [
+        "quercetin",
+        "luteolin",
+        "ascorbic acid",
+        "lutein",
+        "allicin"
+      ],
+      "nutrient_score": 127,
+      "countermeasure_tags": [
+        "senolytic",
+        "Nrf2 activation",
+        "B12-fortified"
+      ]
+    },
+    {
+      "name": "Golden Turmeric Lentil Soup",
+      "meal_type": "dinner",
+      "phase": "in_flight",
+      "ingredients": [
+        "red lentils",
+        "turmeric",
+        "ginger",
+        "garlic",
+        "onion",
+        "coconut milk",
+        "spinach",
+        "lemon juice",
+        "cumin",
+        "coriander"
+      ],
+      "preparation": "Saut\u00e9 onion, garlic, ginger. Add turmeric, cumin, coriander. Add lentils and water, cook 20 min. Stir in spinach and coconut milk.",
+      "target_nutrients": [
+        "curcumin",
+        "gingerol",
+        "allicin",
+        "ascorbic acid",
+        "quercetin"
+      ],
+      "nutrient_score": 124,
+      "countermeasure_tags": [
+        "anti-inflammatory",
+        "NF-kB inhibition",
+        "protein-rich"
+      ]
+    },
+    {
+      "name": "Mediterranean Quinoa with Herbs",
+      "meal_type": "lunch",
+      "phase": "in_flight",
+      "ingredients": [
+        "quinoa",
+        "parsley",
+        "oregano",
+        "thyme",
+        "tomato",
+        "cucumber",
+        "olive oil",
+        "lemon juice",
+        "olive",
+        "red onion",
+        "mint"
+      ],
+      "preparation": "Cook quinoa. Chop herbs and vegetables. Toss with olive oil-lemon dressing.",
+      "target_nutrients": [
+        "luteolin",
+        "quercetin",
+        "ascorbic acid",
+        "allicin"
+      ],
+      "nutrient_score": 116,
+      "countermeasure_tags": [
+        "anti-inflammatory",
+        "Mediterranean diet",
+        "antioxidant"
+      ]
+    },
+    {
+      "name": "Roasted Root Vegetables with Rosemary",
+      "meal_type": "dinner",
+      "phase": "pre_flight",
+      "ingredients": [
+        "sweet potato",
+        "carrot",
+        "beet",
+        "onion",
+        "garlic",
+        "rosemary",
+        "thyme",
+        "olive oil",
+        "black pepper",
+        "balsamic vinegar"
+      ],
+      "preparation": "Cube vegetables. Toss with olive oil, herbs, garlic. Roast at 200\u00b0C for 35 min. Drizzle with balsamic.",
+      "target_nutrients": [
+        "quercetin",
+        "luteolin",
+        "allicin",
+        "ascorbic acid"
+      ],
+      "nutrient_score": 114,
+      "countermeasure_tags": [
+        "beta-carotene",
+        "antioxidant",
+        "fiber-rich"
+      ]
+    },
+    {
+      "name": "Cruciferous Crunch Salad with Tahini",
+      "meal_type": "lunch",
+      "phase": "post_flight",
+      "ingredients": [
+        "broccoli (raw, grated)",
+        "brussels sprouts (shaved)",
+        "cabbage",
+        "carrot",
+        "tahini",
+        "lemon juice",
+        "garlic",
+        "apple cider vinegar",
+        "pomegranate seeds",
+        "walnut"
+      ],
+      "preparation": "Grate broccoli and brussels sprouts. Shave cabbage. Toss with tahini-lemon-garlic dressing. Top with pomegranate and walnuts.",
+      "target_nutrients": [
+        "sulforaphane",
+        "quercetin",
+        "ascorbic acid",
+        "allicin"
+      ],
+      "nutrient_score": 110,
+      "countermeasure_tags": [
+        "Nrf2 activation",
+        "senolytic",
+        "antioxidant"
+      ]
+    },
+    {
+      "name": "Green Tea Berry Antioxidant Smoothie",
+      "meal_type": "breakfast",
+      "phase": "in_flight",
+      "ingredients": [
+        "green tea (brewed, chilled)",
+        "blueberry",
+        "strawberry",
+        "banana",
+        "flax seed",
+        "spinach",
+        "lemon juice"
+      ],
+      "preparation": "Brew green tea, chill. Blend with berries, banana, spinach, flax, lemon.",
+      "target_nutrients": [
+        "epigallocatechin gallate",
+        "ascorbic acid",
+        "quercetin",
+        "lutein"
+      ],
+      "nutrient_score": 98,
+      "countermeasure_tags": [
+        "AMPK activation",
+        "antioxidant",
+        "mitochondrial support"
+      ]
+    },
+    {
+      "name": "Ginger-Green Tea Recovery Broth",
+      "meal_type": "snack",
+      "phase": "post_flight",
+      "ingredients": [
+        "ginger (fresh)",
+        "green tea",
+        "lemon",
+        "turmeric",
+        "black pepper",
+        "honey substitute (agave)",
+        "seaweed (nori)"
+      ],
+      "preparation": "Brew ginger and green tea. Add turmeric, black pepper, lemon, agave. Float nori strips.",
+      "target_nutrients": [
+        "gingerol",
+        "epigallocatechin gallate",
+        "curcumin",
+        "ascorbic acid"
+      ],
+      "nutrient_score": 88,
+      "countermeasure_tags": [
+        "anti-nausea",
+        "mitochondrial support",
+        "recovery"
+      ]
+    },
+    {
+      "name": "Overnight Oats with Berries and Flax",
+      "meal_type": "breakfast",
+      "phase": "pre_flight",
+      "ingredients": [
+        "rolled oats",
+        "flax seed",
+        "chia seed",
+        "blueberry",
+        "strawberry",
+        "walnut",
+        "cinnamon",
+        "vanilla",
+        "soy milk"
+      ],
+      "preparation": "Combine oats, seeds, soy milk, cinnamon, vanilla. Refrigerate overnight. Top with berries and walnuts in the morning.",
+      "target_nutrients": [
+        "quercetin",
+        "ascorbic acid",
+        "epigallocatechin gallate"
+      ],
+      "nutrient_score": 83,
+      "countermeasure_tags": [
+        "omega-3",
+        "fiber-rich",
+        "antioxidant"
+      ]
+    },
+    {
+      "name": "Spicy Peanut Soba Noodles",
+      "meal_type": "dinner",
+      "phase": "in_flight",
+      "ingredients": [
+        "buckwheat soba noodles",
+        "peanut butter",
+        "ginger",
+        "garlic",
+        "soy sauce",
+        "rice vinegar",
+        "chili",
+        "cabbage",
+        "carrot",
+        "scallion"
+      ],
+      "preparation": "Cook soba noodles. Whisk peanut sauce with ginger, garlic, soy, vinegar. Toss with shredded cabbage and carrot.",
+      "target_nutrients": [
+        "resveratrol",
+        "gingerol",
+        "allicin",
+        "quercetin"
+      ],
+      "nutrient_score": 80,
+      "countermeasure_tags": [
+        "protein-rich",
+        "anti-inflammatory",
+        "resveratrol"
+      ]
+    },
+    {
+      "name": "Cocoa-Chia Pudding with Raspberries",
+      "meal_type": "breakfast",
+      "phase": "post_flight",
+      "ingredients": [
+        "chia seed",
+        "cocoa",
+        "raspberry",
+        "almond milk",
+        "vanilla",
+        "maple syrup",
+        "walnut"
+      ],
+      "preparation": "Mix chia, cocoa, almond milk, vanilla, maple syrup. Refrigerate 4+ hours. Top with raspberries and walnuts.",
+      "target_nutrients": [
+        "quercetin",
+        "ascorbic acid"
+      ],
+      "nutrient_score": 69,
+      "countermeasure_tags": [
+        "omega-3",
+        "antioxidant",
+        "flavonoid-rich"
+      ]
+    }
+  ],
+  "meal_plans": {
+    "pre_flight": {
+      "phase": "pre_flight",
+      "total_nutrients": [
+        "allicin",
+        "ascorbic acid",
+        "epigallocatechin gallate",
+        "lutein",
+        "luteolin",
+        "quercetin"
+      ],
+      "avg_score": 108.0,
+      "recipes": [
+        {
+          "meal_type": "breakfast",
+          "name": "Overnight Oats with Berries and Flax",
+          "ingredients": [
+            "rolled oats",
+            "flax seed",
+            "chia seed",
+            "blueberry",
+            "strawberry",
+            "walnut",
+            "cinnamon",
+            "vanilla",
+            "soy milk"
+          ],
+          "preparation": "Combine oats, seeds, soy milk, cinnamon, vanilla. Refrigerate overnight. Top with berries and walnuts in the morning.",
+          "target_nutrients": [
+            "quercetin",
+            "ascorbic acid",
+            "epigallocatechin gallate"
+          ],
+          "nutrient_score": 83,
+          "countermeasure_tags": [
+            "omega-3",
+            "fiber-rich",
+            "antioxidant"
+          ]
+        },
+        {
+          "meal_type": "lunch",
+          "name": "Kale Caesar with Capers and Nutritional Yeast",
+          "ingredients": [
+            "kale (massaged)",
+            "capers",
+            "nutritional yeast",
+            "garlic",
+            "lemon juice",
+            "olive oil",
+            "hemp seed",
+            "mustard",
+            "black pepper"
+          ],
+          "preparation": "Massage kale with olive oil and lemon. Add capers, nutritional yeast, hemp seeds. Toss with garlic-mustard dressing.",
+          "target_nutrients": [
+            "quercetin",
+            "luteolin",
+            "ascorbic acid",
+            "lutein",
+            "allicin"
+          ],
+          "nutrient_score": 127,
+          "countermeasure_tags": [
+            "senolytic",
+            "Nrf2 activation",
+            "B12-fortified"
+          ]
+        },
+        {
+          "meal_type": "dinner",
+          "name": "Roasted Root Vegetables with Rosemary",
+          "ingredients": [
+            "sweet potato",
+            "carrot",
+            "beet",
+            "onion",
+            "garlic",
+            "rosemary",
+            "thyme",
+            "olive oil",
+            "black pepper",
+            "balsamic vinegar"
+          ],
+          "preparation": "Cube vegetables. Toss with olive oil, herbs, garlic. Roast at 200\u00b0C for 35 min. Drizzle with balsamic.",
+          "target_nutrients": [
+            "quercetin",
+            "luteolin",
+            "allicin",
+            "ascorbic acid"
+          ],
+          "nutrient_score": 114,
+          "countermeasure_tags": [
+            "beta-carotene",
+            "antioxidant",
+            "fiber-rich"
+          ]
+        }
+      ]
+    },
+    "in_flight": {
+      "phase": "in_flight",
+      "total_nutrients": [
+        "allicin",
+        "ascorbic acid",
+        "curcumin",
+        "epigallocatechin gallate",
+        "gingerol",
+        "lutein",
+        "quercetin",
+        "sulforaphane"
+      ],
+      "avg_score": 116.33333333333333,
+      "recipes": [
+        {
+          "meal_type": "breakfast",
+          "name": "Green Tea Berry Antioxidant Smoothie",
+          "ingredients": [
+            "green tea (brewed, chilled)",
+            "blueberry",
+            "strawberry",
+            "banana",
+            "flax seed",
+            "spinach",
+            "lemon juice"
+          ],
+          "preparation": "Brew green tea, chill. Blend with berries, banana, spinach, flax, lemon.",
+          "target_nutrients": [
+            "epigallocatechin gallate",
+            "ascorbic acid",
+            "quercetin",
+            "lutein"
+          ],
+          "nutrient_score": 98,
+          "countermeasure_tags": [
+            "AMPK activation",
+            "antioxidant",
+            "mitochondrial support"
+          ]
+        },
+        {
+          "meal_type": "lunch",
+          "name": "Broccoli Sulforaphane Power Bowl",
+          "ingredients": [
+            "broccoli (raw or lightly steamed)",
+            "quinoa",
+            "avocado",
+            "sunflower seeds",
+            "lemon juice",
+            "garlic",
+            "olive oil",
+            "turmeric",
+            "black pepper"
+          ],
+          "preparation": "Lightly steam broccoli (maximizes sulforaphane). Cook quinoa. Toss with avocado, seeds, lemon-garlic-turmeric dressing.",
+          "target_nutrients": [
+            "sulforaphane",
+            "curcumin",
+            "ascorbic acid",
+            "quercetin",
+            "lutein"
+          ],
+          "nutrient_score": 143,
+          "countermeasure_tags": [
+            "Nrf2 activation",
+            "antioxidant",
+            "anti-inflammatory"
+          ]
+        },
+        {
+          "meal_type": "dinner",
+          "name": "Spiced Chickpea and Spinach Curry",
+          "ingredients": [
+            "chickpeas",
+            "spinach",
+            "tomato",
+            "onion",
+            "garlic",
+            "ginger",
+            "turmeric",
+            "cumin",
+            "coriander",
+            "cinnamon",
+            "coconut milk"
+          ],
+          "preparation": "Saut\u00e9 onion, garlic, ginger with spices. Add tomatoes, chickpeas, coconut milk. Simmer 15 min. Add spinach at end.",
+          "target_nutrients": [
+            "curcumin",
+            "gingerol",
+            "allicin",
+            "quercetin",
+            "lutein",
+            "ascorbic acid"
+          ],
+          "nutrient_score": 137,
+          "countermeasure_tags": [
+            "anti-inflammatory",
+            "protein-rich",
+            "iron-rich"
+          ]
+        }
+      ]
+    },
+    "post_flight": {
+      "phase": "post_flight",
+      "total_nutrients": [
+        "allicin",
+        "ascorbic acid",
+        "curcumin",
+        "epigallocatechin gallate",
+        "gingerol",
+        "quercetin",
+        "sulforaphane"
+      ],
+      "avg_score": 89.0,
+      "recipes": [
+        {
+          "meal_type": "breakfast",
+          "name": "Cocoa-Chia Pudding with Raspberries",
+          "ingredients": [
+            "chia seed",
+            "cocoa",
+            "raspberry",
+            "almond milk",
+            "vanilla",
+            "maple syrup",
+            "walnut"
+          ],
+          "preparation": "Mix chia, cocoa, almond milk, vanilla, maple syrup. Refrigerate 4+ hours. Top with raspberries and walnuts.",
+          "target_nutrients": [
+            "quercetin",
+            "ascorbic acid"
+          ],
+          "nutrient_score": 69,
+          "countermeasure_tags": [
+            "omega-3",
+            "antioxidant",
+            "flavonoid-rich"
+          ]
+        },
+        {
+          "meal_type": "lunch",
+          "name": "Cruciferous Crunch Salad with Tahini",
+          "ingredients": [
+            "broccoli (raw, grated)",
+            "brussels sprouts (shaved)",
+            "cabbage",
+            "carrot",
+            "tahini",
+            "lemon juice",
+            "garlic",
+            "apple cider vinegar",
+            "pomegranate seeds",
+            "walnut"
+          ],
+          "preparation": "Grate broccoli and brussels sprouts. Shave cabbage. Toss with tahini-lemon-garlic dressing. Top with pomegranate and walnuts.",
+          "target_nutrients": [
+            "sulforaphane",
+            "quercetin",
+            "ascorbic acid",
+            "allicin"
+          ],
+          "nutrient_score": 110,
+          "countermeasure_tags": [
+            "Nrf2 activation",
+            "senolytic",
+            "antioxidant"
+          ]
+        },
+        {
+          "meal_type": "snack",
+          "name": "Ginger-Green Tea Recovery Broth",
+          "ingredients": [
+            "ginger (fresh)",
+            "green tea",
+            "lemon",
+            "turmeric",
+            "black pepper",
+            "honey substitute (agave)",
+            "seaweed (nori)"
+          ],
+          "preparation": "Brew ginger and green tea. Add turmeric, black pepper, lemon, agave. Float nori strips.",
+          "target_nutrients": [
+            "gingerol",
+            "epigallocatechin gallate",
+            "curcumin",
+            "ascorbic acid"
+          ],
+          "nutrient_score": 88,
+          "countermeasure_tags": [
+            "anti-nausea",
+            "mitochondrial support",
+            "recovery"
+          ]
+        }
+      ]
+    }
+  },
+  "countermeasure_nutrients": {
+    "quercetin": {
+      "description": "Flavonoid antioxidant; senolytic; AMPK activator",
+      "key_sources": [
+        "onion",
+        "apple",
+        "broccoli",
+        "kale",
+        "capers",
+        "berry"
+      ],
+      "pathways": [
+        "Nrf2/ARE",
+        "AMPK",
+        "senescence clearance"
+      ],
+      "lincs_stratum": "liver_immune"
+    },
+    "sulforaphane": {
+      "description": "Isothiocyanate; Nrf2 activator; anti-inflammatory",
+      "key_sources": [
+        "broccoli",
+        "brussels sprouts",
+        "cabbage",
+        "kale"
+      ],
+      "pathways": [
+        "Nrf2/ARE",
+        "Phase II detox",
+        "NF-kB inhibition"
+      ],
+      "lincs_stratum": "brain"
+    },
+    "curcumin": {
+      "description": "Polyphenol; anti-inflammatory; NF-kB inhibitor",
+      "key_sources": [
+        "turmeric",
+        "curry"
+      ],
+      "pathways": [
+        "NF-kB",
+        "Nrf2/ARE",
+        "COX-2 inhibition"
+      ],
+      "lincs_stratum": "brain"
+    },
+    "ascorbic acid": {
+      "description": "Vitamin C; antioxidant; collagen synthesis",
+      "key_sources": [
+        "orange",
+        "lemon",
+        "pepper",
+        "broccoli",
+        "kiwi",
+        "strawberry"
+      ],
+      "pathways": [
+        "antioxidant",
+        "collagen synthesis",
+        "immune support"
+      ],
+      "lincs_stratum": "brain"
+    },
+    "luteolin": {
+      "description": "Flavone; antioxidant; anti-inflammatory",
+      "key_sources": [
+        "celery",
+        "parsley",
+        "pepper",
+        "oregano",
+        "thyme"
+      ],
+      "pathways": [
+        "Nrf2/ARE",
+        "NF-kB inhibition",
+        "MAO inhibition"
+      ],
+      "lincs_stratum": "brain"
+    },
+    "resveratrol": {
+      "description": "Stilbene; SIRT1 activator; mitochondrial biogenesis",
+      "key_sources": [
+        "grape",
+        "peanut",
+        "berry"
+      ],
+      "pathways": [
+        "SIRT1",
+        "AMPK",
+        "mitochondrial biogenesis"
+      ],
+      "lincs_stratum": "liver_immune"
+    },
+    "epigallocatechin gallate": {
+      "description": "Catechin; antioxidant; AMPK activator",
+      "key_sources": [
+        "green tea"
+      ],
+      "pathways": [
+        "AMPK",
+        "Nrf2/ARE",
+        "mTOR inhibition"
+      ],
+      "lincs_stratum": "liver_immune"
+    },
+    "gingerol": {
+      "description": "Phenol; anti-inflammatory; anti-nausea",
+      "key_sources": [
+        "ginger"
+      ],
+      "pathways": [
+        "NF-kB",
+        "COX-2 inhibition",
+        "5-HT3 antagonism"
+      ],
+      "lincs_stratum": "liver_immune"
+    },
+    "allicin": {
+      "description": "Organosulfur; antimicrobial; cardiovascular",
+      "key_sources": [
+        "garlic",
+        "onion"
+      ],
+      "pathways": [
+        "cardiovascular",
+        "antimicrobial",
+        "antioxidant"
+      ],
+      "lincs_stratum": "liver_immune"
+    },
+    "lutein": {
+      "description": "Carotenoid; eye health; antioxidant",
+      "key_sources": [
+        "kale",
+        "spinach",
+        "broccoli"
+      ],
+      "pathways": [
+        "antioxidant",
+        "macular protection"
+      ],
+      "lincs_stratum": "brain"
+    }
+  }
+}
