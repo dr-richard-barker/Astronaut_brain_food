@@ -1,0 +1,50 @@
+osd_id,count_file,metadata_file,n_samples,tissue_stratum,tissue,glds_id,mission
+OSD-47,GLDS-47_rna_seq_STAR_Unnormalized_Counts_GLbulkRNAseq.csv,OSD-47_metadata_OSD-47-ISA.zip,NA,liver_immune,Liver,GLDS-47,SpaceX-4
+OSD-48,GLDS-48_rna_seq_STAR_Unnormalized_Counts_GLbulkRNAseq.csv,OSD-48_metadata_OSD-48-ISA.zip,NA,liver_immune,Liver,GLDS-48,SpaceX-4
+OSD-83,GLDS-83_rna_seq_Unnormalized_Counts.csv,GLDS-83_metadata_GLDS-83-ISA.zip,NA,liver_immune,Liver,GLDS-83,Expedition 33/34
+OSD-137,GLDS-137_rna_seq_Unnormalized_Counts.csv,OSD-137_metadata_OSD-137-ISA.zip,NA,liver_immune,Liver,GLDS-137,SpaceX-8
+OSD-164,GLDS-164_rna_seq_STAR_Unnormalized_Counts_GLbulkRNAseq.csv,OSD-164_metadata_GLDS-164-ISA.zip,NA,liver_immune,Liver,GLDS-164,SpaceX-4
+OSD-168,GLDS-168_rna_seq_STAR_Unnormalized_Counts_GLbulkRNAseq.csv,OSD-168_metadata_OSD-168-ISA.zip,NA,liver_immune,Liver,GLDS-168,SpaceX-8
+OSD-173,GLDS-173_rna_seq_STAR_Unnormalized_Counts_GLbulkRNAseq.csv,OSD-173_metadata_GLDS-173-ISA.zip,NA,liver_immune,Liver,GLDS-173,STS-135
+OSD-242,GLDS-242_rna_seq_STAR_Unnormalized_Counts_GLbulkRNAseq.csv,OSD-242_metadata_OSD-242-ISA.zip,NA,liver_immune,Liver,GLDS-242,SpaceX-12
+OSD-244,GLDS-244_rna_seq_STAR_Unnormalized_Counts_GLbulkRNAseq.csv,OSD-244_metadata_OSD-244-ISA.zip,NA,liver_immune,Thymus,GLDS-244,SpaceX-13
+OSD-245,GLDS-245_rna_seq_Unnormalized_Counts.csv,OSD-245_metadata_GLDS-245-ISA.zip,NA,liver_immune,Liver,GLDS-245,SpaceX-13
+OSD-246,GLDS-246_rna_seq_STAR_Unnormalized_Counts_GLbulkRNAseq.csv,OSD-246_metadata_OSD-246-ISA.zip,NA,liver_immune,Spleen,GLDS-246,SpaceX-13
+OSD-288,GLDS-288_rna_seq_STAR_Unnormalized_Counts_GLbulkRNAseq.csv,OSD-288_metadata_OSD-288-ISA.zip,NA,liver_immune,Spleen,GLDS-288,SpaceX-9
+OSD-289,GLDS-289_rna_seq_STAR_Unnormalized_Counts_GLbulkRNAseq.csv,OSD-289_metadata_OSD-289-ISA.zip,NA,liver_immune,thymus,GLDS-289,SpaceX-12
+OSD-352,GLDS-352_rna_seq_STAR_Unnormalized_Counts.csv,NA,NA,brain,Brain,GLDS-352,SpaceX-8
+OSD-379,GLDS-379_rna_seq_STAR_Unnormalized_Counts_GLbulkRNAseq.csv,OSD-379_metadata_OSD-379-ISA.zip,NA,liver_immune,Left Lobe of the Liver,GLDS-379,SpaceX-16
+OSD-402,NA,OSD-402_metadata_OSD-402-ISA.zip,NA,liver_immune,Bone marrow of femur,GLDS-402,SpaceX-18
+OSD-403,NA,OSD-403_metadata_OSD-403-ISA.zip,NA,liver_immune,Bone marrow of humerus,GLDS-403,SpaceX-18
+OSD-404,NA,OSD-404_metadata_OSD-404-ISA.zip,NA,liver_immune,peripheral blood mononuclear cell,GLDS-404,SpaceX-18
+OSD-405,NA,OSD-405_metadata_OSD-405-ISA.zip,NA,liver_immune,Spleen,GLDS-405,SpaceX-18
+OSD-420,GLDS-420_rna_seq_STAR_Unnormalized_Counts_GLbulkRNAseq.csv,OSD-420_metadata_GLDS-420-ISA.zip,NA,liver_immune,Spleen-distal,GLDS-420,SpaceX-12
+OSD-421,GLDS-421_rna_seq_STAR_Unnormalized_Counts_GLbulkRNAseq.csv,OSD-421_metadata_GLDS-421-ISA.zip,NA,liver_immune,thymus,GLDS-421,SpaceX-12
+OSD-423,GLDS-423_rna_seq_STAR_Unnormalized_Counts.csv,OSD-423_metadata_GLDS-423-ISA.zip,NA,liver_immune,thymus,GLDS-423,STS-58
+OSD-457,GLDS-457_rna_seq_STAR_Unnormalized_Counts_GLbulkRNAseq.csv,OSD-457_metadata_OSD-457-ISA.zip,NA,brain,Cerebrum,GLDS-457,SpaceX-14
+OSD-463,GLDS-463_rna_seq_STAR_Unnormalized_Counts_GLbulkRNAseq.csv,OSD-463_metadata_OSD-463-ISA.zip,NA,liver_immune,Left Lobe of the Liver,GLDS-463,SpaceX-21
+OSD-506,GLDS-506_rna_seq_STAR_Unnormalized_Counts_GLbulkRNAseq.csv,OSD-506_metadata_GLDS-506-ISA.zip,NA,liver_immune,Spleen,GLDS-506,SpaceX-21
+OSD-515,GLDS-515_rna_seq_STAR_Unnormalized_Counts_GLbulkRNAseq.csv,OSD-515_metadata_OSD-515-ISA.zip,NA,liver_immune,thymus,GLDS-515,SpaceX-21
+OSD-525,GLDS-525_rna_seq_STAR_Unnormalized_Counts_GLbulkRNAseq.csv,OSD-525_metadata_OSD-525-ISA.zip,NA,brain,Cerebellum,GLDS-525,SpaceX-21
+OSD-561,GLDS-556_rna_seq_STAR_Unnormalized_Counts_GLbulkRNAseq.csv,OSD-561_metadata_OSD-561-ISA.zip,NA,brain,right hemisphere of cerebellum,GLDS-556,SpaceX-18
+OSD-562,GLDS-557_rna_seq_STAR_Unnormalized_Counts_GLbulkRNAseq.csv,OSD-562_metadata_OSD-562-ISA.zip,NA,brain,Right hippocampus,GLDS-557,SpaceX-18
+OSD-563,GLDS-568_rna_seq_STAR_Unnormalized_Counts_GLbulkRNAseq.csv,OSD-563_metadata_OSD-563-ISA.zip,NA,brain,right hemisphere of cerebellum,GLDS-568,SpaceX-21
+OSD-564,GLDS-569_rna_seq_STAR_Unnormalized_Counts_GLbulkRNAseq.csv,OSD-564_metadata_OSD-564-ISA.zip,NA,brain,Right hippocampus,GLDS-569,SpaceX-21
+OSD-569,NA,OSD-569_metadata_OSD-569-ISA.zip,NA,liver_immune,Whole Blood,GLDS-561,SpaceX Inspiration4
+OSD-570,NA,OSD-570_metadata_OSD-570-ISA.zip,NA,liver_immune,Peripheral Blood Mononuclear Cell,GLDS-562,SpaceX Inspiration4
+OSD-612,GLDS-588_rna_seq_STAR_Unnormalized_Counts_GLbulkRNAseq.csv,OSD-612_metadata_OSD-612-ISA.zip,NA,brain,Left cerebral hemisphere,GLDS-588,SpaceX-21
+OSD-613,GLDS-589_rna_seq_STAR_Unnormalized_Counts_GLbulkRNAseq.csv,OSD-613_metadata_OSD-613-ISA.zip,NA,brain,Left cerebral hemisphere,GLDS-589,SpaceX-18
+OSD-686,GLDS-617_rna_seq_STAR_Unnormalized_Counts_GLbulkRNAseq.csv,OSD-686_metadata_OSD-686-ISA.zip,NA,liver_immune,Liver,GLDS-617,SpaceX-12
+OSD-690,GLDS-620_rna_seq_STAR_Unnormalized_Counts_GLbulkRNAseq.csv,OSD-690_metadata_OSD-690-ISA.zip,NA,liver_immune,Bone Marrow,GLDS-620,SpaceX-14
+OSD-905,NA,OSD-905_metadata_OSD-905-ISA.zip,NA,liver_immune,Liver,GLDS-739,SpaceX-16
+OSD-907,NA,OSD-907_metadata_OSD-907-ISA.zip,NA,liver_immune,thymus,GLDS-741,SpaceX-16
+OSD-910,NA,OSD-910_metadata_OSD-910-ISA.zip,NA,liver_immune,Spleen,GLDS-744,SpaceX-16
+OSD-916,NA,OSD-916_metadata_OSD-916-ISA.zip,NA,brain,brain,GLDS-766,SpaceX-16
+OSD-918,NA,OSD-918_metadata_OSD-918-ISA.zip,NA,liver_immune,Blood,GLDS-746,SpaceX-16
+OSD-926,NA,OSD-926_metadata_OSD-926-ISA.zip,NA,liver_immune,Bone Marrow,GLDS-754,SpaceX-16
+OSD-927,NA,OSD-927_metadata_OSD-927-ISA.zip,NA,brain,myeloid cerebellum,GLDS-755,SpaceX-16
+OSD-928,NA,OSD-928_metadata_OSD-928-ISA.zip,NA,brain,myeloid forebrain,GLDS-756,SpaceX-16
+OSD-929,NA,OSD-929_metadata_OSD-929-ISA.zip,NA,brain,myeloid hippocampus,GLDS-757,SpaceX-16
+OSD-930,NA,OSD-930_metadata_OSD-930-ISA.zip,NA,brain,non-myeloid cerebellum,GLDS-758,SpaceX-16
+OSD-931,NA,OSD-931_metadata_OSD-931-ISA.zip,NA,brain,non-myeloid forebrain,GLDS-759,SpaceX-16
+OSD-932,NA,OSD-932_metadata_OSD-932-ISA.zip,NA,brain,non-myeloid hippocampus,GLDS-760,SpaceX-16
