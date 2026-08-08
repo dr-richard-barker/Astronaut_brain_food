@@ -1,0 +1,127 @@
+<!doctype html>
+<html lang="en"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Home · Astronaut Opposite Forcing</title>
+<meta name="description" content="Consensus spaceflight transcriptomic signatures from NASA OSDR rodent studies, screened against LINCS L1000 for compounds that reverse them, translated into vegan nutritional countermeasures — plus a neurological-focused companion analysis.">
+<link rel="stylesheet" href="assets/style.css">
+<link rel="stylesheet" href="https://dr-richard-barker.github.io/Plant_response_to_radiation/cose/cose-theme.css">
+</head><body data-site-id="Astronaut_brain_food">
+<header class="site"><nav>
+  <span class="brand">🥗 Astronaut Opposite Forcing</span>
+  <a href="#abstract" style="color:var(--accent)">Abstract</a>
+  <a href="#highlights">Highlights</a>
+  <a href="#figures">Figures</a>
+  <a href="#neuro">Neurological companion</a>
+  <a href="#data">Data &amp; code</a>
+  <a href="https://github.com/dr-richard-barker/Astronaut_brain_food">GitHub ↗</a>
+</nav></header>
+<main>
+<section class="hero">
+  <h1>Spaceflight transcriptomic signatures &amp; vegan nutritional countermeasures</h1>
+  <p class="lede">A reproducible pipeline that builds consensus transcriptomic signatures from
+     NASA OSDR rodent ISS RNA-seq studies, screens the LINCS L1000 perturbation compendium for
+     compounds that reverse them ("opposite forcings"), validates hits with functional enrichment,
+     and translates the results into a curated vegan nutrition layer organized by mission phase.</p>
+  <div class="badges">
+    <span class="badge">MIT (code)</span><span class="badge">NASA OSDR</span>
+    <span class="badge">LINCS L1000</span><span class="badge">DESeq2 + metafor</span>
+    <span class="badge">GSEA / ORA</span><span class="badge">FooDB</span>
+  </div>
+  <div class="btnrow">
+    <a class="btn primary" href="report_astronaut_opposite_forcing.pdf">Read the report (PDF) →</a>
+    <a class="btn" href="#figures">Figures</a>
+    <a class="btn" href="https://github.com/dr-richard-barker/Astronaut_brain_food/tree/main/scripts">Pipeline code</a>
+    <a class="btn" href="https://github.com/dr-richard-barker/Astronaut_brain_food">Code &amp; data (GitHub)</a>
+  </div>
+  <p class="lede"><b>Headline:</b> across <b>15 meta-analyzed</b> NASA OSDR rodent spaceflight
+  studies (160 screened), consensus liver/immune (525 genes) and brain (505 genes) signatures were
+  screened against LINCS L1000; the top brain reverser was <b>vemurafenib</b>
+  (z&nbsp;=&nbsp;−9.68) and the top liver/immune reverser was <b>imatinib</b>. Ten bioactive
+  nutrients were mapped to 12 vegan recipes across pre-/in-/post-flight mission phases.</p>
+</section>
+
+<h2 id="abstract">Abstract</h2>
+<div class="content"><p>Spaceflight induces coordinated transcriptomic stress responses across
+tissues. This pipeline (1) enumerates and screens 160 NASA OSDR rodent ISS RNA-seq studies,
+meta-analyzing the 15 with usable differential-expression signal via DESeq2 per study and a
+random-effects (<code>metafor</code>) consensus across studies; (2) derives a
+<b>525-gene liver/immune signature</b> (283 up, 242 down, 25 core) and a
+<b>505-gene brain signature</b> (208 up, 297 down, 13 core); (3) screens the LINCS L1000
+connectivity compendium — 219 liver/immune and 221 brain candidate compounds — for
+transcriptomic "opposite forcing" of each signature, annotated with DrugBank 5.1.8, the Broad
+Drug Repurposing Hub, and ChEMBL; (4) validates biological plausibility with GSEA/ORA
+(Hallmark, Reactome, GO BP) and JensenLab DISEASES enrichment; and (5) maps therapeutic hits
+onto FooDB + NutriChem 2.0 to surface <b>10 bioactive vegan nutrients</b>, translated into
+<b>12 curated recipes</b> organized by mission phase (pre-/in-/post-flight).</p><hr /></div>
+
+<h2 id="highlights">Highlights</h2>
+<div class="cards">
+  <div class="card"><h3>Consensus signatures</h3>
+    <p><span class="k">525</span> liver/immune genes (283↑/242↓, 25 core) and <span class="k">505</span> brain genes (208↑/297↓, 13 core) meta-analyzed across <span class="k">15</span> of 160 screened OSDR studies.</p></div>
+  <div class="card"><h3>Opposite-forcing screen</h3>
+    <p><span class="k">219</span> liver/immune and <span class="k">221</span> brain LINCS L1000 candidate reversers; top hits <em>imatinib</em> (liver/immune) and <em>vemurafenib</em> (brain, z&nbsp;=&nbsp;−9.68).</p></div>
+  <div class="card"><h3>Nutritional translation</h3>
+    <p><span class="k">10</span> bioactive vegan nutrients (incl. sulforaphane, quercetin, ascorbic acid) mapped from reversing compounds via FooDB.</p></div>
+  <div class="card"><h3>Mission-phased recipes</h3>
+    <p><span class="k">12</span> curated vegan recipes; top nutrient coverage: Broccoli Sulforaphane Power Bowl (score 143).</p></div>
+</div>
+
+<h2 id="figures">Selected figures</h2>
+<div class="gallery">
+  <figure><a href="https://github.com/dr-richard-barker/Astronaut_brain_food/tree/main/results/figures"><img src="assets/figures/fig1_signature_overview.png" alt="Overview of the consensus liver/immune and brain signatures."></a><figcaption>Fig 1 — Consensus signature overview (liver/immune vs. brain, up/down/core genes).</figcaption></figure>
+  <figure><a href="https://github.com/dr-richard-barker/Astronaut_brain_food/tree/main/results/figures"><img src="assets/figures/fig2_top_reversers.png" alt="Top LINCS L1000 reversing compounds per tissue."></a><figcaption>Fig 2 — Top LINCS L1000 reversing compounds per tissue signature.</figcaption></figure>
+  <figure><a href="https://github.com/dr-richard-barker/Astronaut_brain_food/tree/main/results/figures"><img src="assets/figures/fig3_gsea_hallmark.png" alt="GSEA Hallmark enrichment of the consensus signatures."></a><figcaption>Fig 3 — GSEA Hallmark pathway enrichment.</figcaption></figure>
+  <figure><a href="https://github.com/dr-richard-barker/Astronaut_brain_food/tree/main/results/figures"><img src="assets/figures/fig4_nutrient_coverage.png" alt="Vegan nutrient coverage of the reversing compound set."></a><figcaption>Fig 4 — Vegan nutrient coverage of the LINCS reverser set.</figcaption></figure>
+  <figure><a href="https://github.com/dr-richard-barker/Astronaut_brain_food/tree/main/results/figures"><img src="assets/figures/fig5_recipe_scores.png" alt="Nutrient coverage scores of the 12 curated vegan recipes."></a><figcaption>Fig 5 — Recipe nutrient-coverage scores across mission phases.</figcaption></figure>
+</div>
+
+<h2 id="neuro">Neurological companion analysis</h2>
+<div class="content"><p>A brain-focused reanalysis of the same rodent ISS transcriptomic data
+(OSD-525, OSD-564, OSD-612, OSD-613), pairing LINCS L1000 connectivity mapping with nutrient
+pharmacokinetic profiling to propose a phased, diet-based neuroprotection strategy.</p>
+<p class="note">Dominant pathology: mitochondrial dysfunction, protein-homeostasis failure and
+DNA-repair suppression, offset by upregulated synaptic/neuronal signaling. Top nutrient
+reversers by PK + LINCS evidence: sulforaphane (Nrf2 activator), ascorbic acid (BBB transport),
+quercetin (BBB integrity) — see <a href="https://github.com/dr-richard-barker/Astronaut_brain_food/blob/main/figure_legends.md">figure legends</a>
+for the full mechanistic detail, including the caveat that curcumin's oral bioavailability is
+~1000× below its therapeutic target (Kroon et al. 2025).</p></div>
+<div class="gallery">
+  <figure><a href="report_neurological_countermeasures.pdf"><img src="assets/figures/fig5_spaceflight_brain_mechanism.png" alt="Four-tier spaceflight brain injury mechanism cascade."></a><figcaption>Spaceflight brain-injury mechanism cascade (stressors → cellular stress → molecular consequences → outcomes).</figcaption></figure>
+  <figure><a href="report_neurological_countermeasures.pdf"><img src="assets/figures/fig6_nutrient_intervention_network.png" alt="Nutrient-pathway-gene intervention network."></a><figcaption>Nutrient–pathway–gene intervention network: 7 nutrients targeting 5 damaged pathways.</figcaption></figure>
+  <figure><a href="report_neurological_countermeasures.pdf"><img src="assets/figures/fig7_diet_mission_phase.png" alt="Diet-based neuroprotection strategy by mission phase."></a><figcaption>Diet-neuroprotection strategy by mission phase (pre-/in-/post-flight).</figcaption></figure>
+</div>
+<div class="btnrow">
+  <a class="btn primary" href="report_neurological_countermeasures.pdf">Neurological report (PDF) →</a>
+  <a class="btn" href="https://github.com/dr-richard-barker/Astronaut_brain_food/blob/main/manuscript_neurological_countermeasures.tex">Neurological manuscript (LaTeX)</a>
+  <a class="btn" href="https://github.com/dr-richard-barker/Astronaut_brain_food/blob/main/astronaut_neurological_zenodo.zip">Full neuro data/scripts bundle (.zip)</a>
+</div>
+
+<h2 id="data">Data &amp; code</h2>
+<div class="content"><ul>
+  <li><b>Report (PDF):</b> <a href="report_astronaut_opposite_forcing.pdf">report_astronaut_opposite_forcing.pdf</a>
+      · <b>Manuscript (LaTeX):</b> <a href="https://github.com/dr-richard-barker/Astronaut_brain_food/blob/main/manuscript_astronaut_opposite_forcing.tex">manuscript_astronaut_opposite_forcing.tex</a></li>
+  <li><b>Pipeline:</b> <a href="https://github.com/dr-richard-barker/Astronaut_brain_food/tree/main/scripts"><code>scripts/</code></a>
+      (01 OSD query → 07d Zenodo packaging; R for signature discovery, Python for screening/nutrition/figures)</li>
+  <li><b>Data:</b> <a href="https://github.com/dr-richard-barker/Astronaut_brain_food/tree/main/data"><code>data/</code></a>
+      (study catalogs, processed consensus signatures) ·
+      <a href="https://github.com/dr-richard-barker/Astronaut_brain_food/tree/main/per_study_DE"><code>per_study_DE/</code></a> (per-study differential expression)</li>
+  <li><b>Result tables:</b> <a href="https://github.com/dr-richard-barker/Astronaut_brain_food/tree/main/results/tables"><code>results/tables/</code></a>
+      (LINCS reversal rankings, GSEA/ORA, nutrient–gene maps, recipe scoring)</li>
+  <li><b>Figures:</b> <a href="https://github.com/dr-richard-barker/Astronaut_brain_food/tree/main/results/figures"><code>results/figures/</code></a>
+      · <a href="https://github.com/dr-richard-barker/Astronaut_brain_food/blob/main/figure_legends.md">figure legends</a></li>
+  <li><b>Citation:</b> <a href="https://github.com/dr-richard-barker/Astronaut_brain_food/blob/main/CITATION.cff">CITATION.cff</a>
+      · neurological companion: <a href="https://github.com/dr-richard-barker/Astronaut_brain_food/blob/main/CITATION_neurological.cff">CITATION_neurological.cff</a></li>
+</ul>
+<p class="note">Code is MIT-licensed; source data (NASA OSDR, LINCS L1000, DrugBank, ChEMBL,
+FooDB, JensenLab DISEASES) remain subject to their own licenses — see the Data Sources table in
+the <a href="https://github.com/dr-richard-barker/Astronaut_brain_food#data-sources">README</a>.
+Independent research; not affiliated with or endorsed by NASA.</p></div>
+</main>
+<footer class="site">
+  Astronaut Opposite Forcing — spaceflight transcriptomic signatures &amp; vegan nutritional countermeasures ·
+  MIT-licensed code ·
+  <a href="https://github.com/dr-richard-barker/Astronaut_brain_food">GitHub</a>
+</footer>
+<script src="https://dr-richard-barker.github.io/Plant_response_to_radiation/cose/sites.js"></script>
+<script src="https://dr-richard-barker.github.io/Plant_response_to_radiation/cose/theme.js"></script>
+</body></html>

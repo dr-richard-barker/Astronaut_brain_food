@@ -2,6 +2,8 @@
 
 ## Spaceflight Transcriptomic Signatures and Vegan Nutritional Countermeasures
 
+🌐 Live site: https://dr-richard-barker.github.io/Astronaut_brain_food/
+
 A reproducible computational pipeline that:
 1. Builds consensus spaceflight transcriptomic signatures from NASA OSDR rodent ISS RNA-seq studies
 2. Screens LINCS L1000 perturbation compendium for compounds that reverse the signatures ("opposite forcings")
@@ -71,7 +73,13 @@ astronaut-opposite-forcing/
 │       ├── fig3_gsea_hallmark.{svg,png}
 │       ├── fig4_nutrient_coverage.{svg,png}
 │       └── fig5_recipe_scores.{svg,png}
-└── report_astronaut_opposite_forcing.pdf
+├── per_study_DE/                   # Per-study DE result CSVs (all 30 screened studies)
+├── docs/                           # GitHub Pages site
+├── report_astronaut_opposite_forcing.pdf
+├── manuscript_astronaut_opposite_forcing.tex
+└── (neurological-countermeasures companion: README_neurological.md,
+    manuscript_neurological_countermeasures.tex, report_neurological_countermeasures.pdf,
+    CITATION_neurological.cff, astronaut_neurological_zenodo.zip)
 ```
 
 ## Dependencies

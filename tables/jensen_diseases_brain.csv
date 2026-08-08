@@ -1,2 +1,0 @@
-disease,n_overlap,n_disease_genes,pvalue,padj,up_genes,n_up,down_genes,n_down,direction,stratum
-Gastrointestinal stromal tumor,4,7,0.004897563373259202,0.004897563373259202,PDGFRA;BRAF;KIT,3,SDHD,1,up_enriched,brain
