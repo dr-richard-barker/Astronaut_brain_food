@@ -89,8 +89,7 @@ def generate_latex(d):
        spaceflight-induced transcriptomic changes via consensus signature reversal}
 
 \author[1]{Richard Barker}
-\author[1]{Biomni Computational Platform}
-\affil[1]{Phylo, Inc.}
+\affil[1]{Collaborative Science Environment Inc.}
 
 \date{""" + date_str + r"""}
 
@@ -365,6 +364,10 @@ long-duration spaceflight. Future work should validate top reversers in spacefli
 expand the human cross-check, and refine recipe optimization with bioavailability and shelf-stability 
 constraints.
 
+\section*{Acknowledgements}
+
+Data analysis scripting, figure generation and manuscript drafting were assisted by Biomni (Phylo, Inc.), an AI agent platform.
+
 % ═══════════════════════════════════════════════════════
 % REFERENCES
 % ═══════════════════════════════════════════════════════
@@ -567,8 +570,8 @@ type: software
 authors:
   - given-names: Richard
     family-names: Barker
-  - name: "Biomni Computational Platform"
-    affiliation: "Phylo, Inc."
+    orcid: "https://orcid.org/0000-0001-5681-9857"
+    affiliation: "Collaborative Science Environment Inc."
 keywords:
   - spaceflight transcriptomics
   - drug repurposing
@@ -581,7 +584,7 @@ keywords:
   - NASA OSDR
   - FooDB
 license: MIT
-repository-code: "https://github.com/phylo/astronaut-opposite-forcing"
+repository-code: "https://github.com/dr-richard-barker/Astronaut_brain_food"
 version: "1.0.0"
 date-released: "{date_str}"
 preferred-citation:
@@ -590,15 +593,15 @@ preferred-citation:
   authors:
     - given-names: Richard
       family-names: Barker
-    - name: "Biomni Computational Platform"
-      affiliation: "Phylo, Inc."
+      orcid: "https://orcid.org/0000-0001-5681-9857"
+      affiliation: "Collaborative Science Environment Inc."
   keywords:
     - spaceflight transcriptomics
     - drug repurposing
     - LINCS L1000
     - nutritional countermeasures
   year: 2025
-  notes: "Manuscript in npj Microgravity style; see manuscript_astronaut_opposite_forcing.tex"
+  notes: "Manuscript in npj Microgravity style; see manuscript_astronaut_opposite_forcing.tex. Data analysis scripting, figure generation and manuscript drafting were assisted by Biomni (Phylo, Inc.), an AI agent platform."
 """
     return cff
 

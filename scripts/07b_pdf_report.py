@@ -263,7 +263,7 @@ def build_report():
         topMargin=52, bottomMargin=52,
         leftMargin=60, rightMargin=60,
         title="Astronaut Opposite Forcing Report",
-        author="Biomni / Phylo",
+        author="Richard Barker",
     )
     story = []
     dw = doc.width  # document content width
